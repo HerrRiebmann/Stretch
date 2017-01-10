@@ -9,9 +9,9 @@ Another timer allows you to change your position.
 ###Usage:
 Start/Stop the timer by pressing "Enter" or "Start".
 In the menue, you can find:
-- **Timer** -> to setup your stretching period
-- **Rest** -> time to change position (can be zero)
-- **Durations** -> Number of durations. Timer will stop automatically. 0 means no auto. stop.
+- **Stretch** -> to setup your stretching duration
+- **Change** -> time to change position (can be zero)
+- **Reputation** -> Number of Reputations. Timer will stop automatically. 0 means no auto. stop.
 - **Vibrate** -> Notification by vibration*
 - **Tone** -> Notification by sound*
 
@@ -19,7 +19,8 @@ In the menue, you can find:
 *_only if supported by device_
 
 ###Images:
-![StretchTimer](/Screenshots/StretchScreenshot01.png?raw=true "Stretch - Timer")
+![Vivoactive](/Screenshots/Vivoactive.png?raw=true "Stretch - Vivoactive")
+![VivoactiveHR](/Screenshots/VivoactiveHR.png?raw=true "Stretch - VivoactiveHR")
 
 ###Infos:
 The top area shows if Connect Mobile is connected and how many notifications you got.
