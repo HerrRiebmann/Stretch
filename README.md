@@ -8,12 +8,12 @@ Another timer allows you to change your position.
 
 ###Usage:
 Start/Stop the timer by pressing "Enter" or "Start".
-In the menue, you can find
-- Timer -> to setup your stretching period
-- Rest -> time to change position (can be zero)
-- Durations -> Number of durations. Timer will stop automatically. 0 means no auto. stop.
-- Vibrate -> Notification by vibration*
-- Tone -> Notification by sound*
+In the menue, you can find:
+- **Timer** -> to setup your stretching period
+- **Rest** -> time to change position (can be zero)
+- **Durations** -> Number of durations. Timer will stop automatically. 0 means no auto. stop.
+- **Vibrate** -> Notification by vibration*
+- **Tone** -> Notification by sound*
 
 
 *_only if supported by device_
