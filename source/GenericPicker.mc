@@ -35,27 +35,21 @@ class NumberFactory extends Ui.PickerFactory
 	}
 }
 
-class BoolFactory extends Ui.PickerFactory
+class MyConfirmationDelegate extends Ui.ConfirmationDelegate
 {
-	function initialize()
+	hidden var _object;
+    hidden var _symbol;
+	function initialize(object, symbol)
 	{
-		PickerFactory.initialize();
+		ConfirmationDelegate.initialize();
+		_object = object;
+        _symbol = symbol;
 	}
-	function getDrawable(item, isSelected)
-	{
-	    return new Ui.Text({:text=>item.toString(),
-	                        :color=>Gfx.COLOR_WHITE,
-	                        :font=>Gfx.FONT_NUMBER_THAI_HOT,
-	                        :justification=>Gfx.TEXT_JUSTIFY_LEFT});
-	}
-	function getSize()
-	{
-		return 2;
-	}
-	function getValue(item)
-	{
-		return item;
-	}
+		
+    function onResponse(value)
+    {        		
+        _object[_symbol] = value == 1;        
+    }    
 }
 
 class MyPickerDelegate extends Ui.PickerDelegate
@@ -110,11 +104,8 @@ class GenericPickerDialog
 		    
 		if(mode == GENERIC_PICKER_Bool && value instanceof Toybox.Lang.Boolean)
 		{			
-			Ui.pushView(new Ui.Picker({:title=>new Ui.Text({:text=>title}),
-                               :pattern=>[new BoolFactory()],
-                               :defaults=>[value]}),
-                new MyPickerDelegate(mode, object, symbol),
-                Ui.SLIDE_UP );
+			var cd = new Ui.Confirmation( title );        
+        	Ui.pushView( cd, new MyConfirmationDelegate(object, symbol), Ui.SLIDE_IMMEDIATE ); 
 		}
 		
 		if(mode == GENERIC_PICKER_Time)

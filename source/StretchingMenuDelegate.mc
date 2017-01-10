@@ -43,24 +43,18 @@ class StretchingMenuDelegate extends Ui.MenuInputDelegate
     }
     
     function Vibrate()
-    {
-    	ShowConfirmation(Ui.loadResource(Rez.Strings.menu_label_Vibrate) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Vibrate);    	    	
+    {    	
+    	ShowGenericPicker(GENERIC_PICKER_Bool, Ui.loadResource(Rez.Strings.menu_label_Vibrate) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Vibrate);    	    	
     }
     
     function Sound()
-    {    	
-    	ShowConfirmation(Ui.loadResource(Rez.Strings.menu_label_Sound) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Sound);    	
-    }
-    
-    function ShowConfirmation(caption, object, symbol)
-    {	
-    	var confDlg = new ConfirmationDialog(caption, object, symbol);    	
-    }
+    {  
+    	ShowGenericPicker(GENERIC_PICKER_Bool, Ui.loadResource(Rez.Strings.menu_label_Sound) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Sound); 	
+    	    	
+    }    
     
     function ShowGenericPicker(type, title, object, symbol)
-    {
-    	//var numDlg = new NumberPickerDialog(type, object, symbol);
-    	    
+    {    	    	    
     	var gpd = new GenericPickerDialog(type, title, object, symbol);
         	    	
         /*
