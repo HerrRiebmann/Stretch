@@ -66,16 +66,20 @@ class StretchingView extends Ui.View
         {        
         	view.setText(StretchTimer.reputation.toString());
         }     
-        view = View.findDrawableById("lblType");
+        view = View.findDrawableById("lblTypeNext");
         if(StretchTimer.StretchActive(null))
         {
         	view.setText(Rez.Strings.main_label_Rest);
+        	view = View.findDrawableById("lblTypeActive");
+        	view.setText(Rez.Strings.main_label_Stretch);
         	view = View.findDrawableById("lblNext");
         	setTimePretty(view, GlobalSetup.RestDuration.value());        	
         }   
         else
         {
         	view.setText(Rez.Strings.main_label_Stretch);
+        	view = View.findDrawableById("lblTypeActive");
+        	view.setText(Rez.Strings.main_label_Rest);
         	view = View.findDrawableById("lblNext");
         	setTimePretty(view, GlobalSetup.StretchDuration.value());
         }

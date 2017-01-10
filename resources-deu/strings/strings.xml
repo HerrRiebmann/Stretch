@@ -1,7 +1,7 @@
 <strings>
     <string id="AppName">Dehnen</string>   
-    <string id="menu_label_Timer">Timer</string>
-    <string id="menu_label_Rest">Wechseln</string>
+    <string id="menu_label_Timer">Dehnen</string>
+    <string id="menu_label_Rest">Wechsel</string>
     <string id="menu_label_Rep">Wiederholungen</string>
     <string id="menu_label_Vibrate">Vibration</string>
     <string id="menu_label_Sound">Ton</string>

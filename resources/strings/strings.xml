@@ -1,11 +1,11 @@
 <strings>
     <string id="AppName">Stretch</string>   
-    <string id="menu_label_Timer">Timer</string>
-    <string id="menu_label_Rest">Rest</string>
-    <string id="menu_label_Rep">Reputations</string>
+    <string id="menu_label_Timer">Stretch</string>
+    <string id="menu_label_Rest">Change</string>
+    <string id="menu_label_Rep">Reputation</string>
     <string id="menu_label_Vibrate">Vibrate</string>
     <string id="menu_label_Sound">Sound</string>
     <string id="main_label_Stretch">Stretch</string>
-    <string id="main_label_Rest">Rest</string>
+    <string id="main_label_Rest">Change</string>
     <string id="main_label_Activate"> activating</string>
 </strings>
