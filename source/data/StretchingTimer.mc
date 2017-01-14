@@ -14,10 +14,14 @@ class StretchingTimer
 	hidden var restActive = true;
 	var reputation = 0;
 	var timeToElapse = 0;
+	var backlightTimer;
+	var backlightDuration = 3;
+	var backlightOn = false;
 	
 	function initialize()
 	{
 		Init();
+		backlightTimer = new Timer.Timer();
 	}
 	
 	function Init()
@@ -91,12 +95,20 @@ class StretchingTimer
 				reputation += 1;
 				if(GlobalSetup.RestDuration.value() > 0)
 				{
+					if(backlightDuration <= GlobalSetup.RestDuration.value())
+					{
+						BacklightOn();
+					}
 					Notify(Double);
 				}
 			}
 			else
 			{
-				//Rest finished
+				//Rest finished	
+				if(backlightDuration <= GlobalSetup.StretchDuration.value())
+				{
+					BacklightOn();
+				}			
 				Notify(Long);
 			}
 			StretchActive(!stretchActive);
@@ -114,6 +126,7 @@ class StretchingTimer
 			if(reputation > GlobalSetup.Reputation)
 			{
 				//Finish!
+				BacklightOn();
 				Notify(Long);
 				Notify(Short);
 				Notify(Double);
@@ -123,8 +136,7 @@ class StretchingTimer
 	}
 	
 	function Notify(mode)
-	{
-		
+	{				
 		var	hasTone = Att has :playTone;
 		if(hasTone)
 		{
@@ -181,6 +193,30 @@ class StretchingTimer
 			 	Att.playTone(Att.TONE_ALERT_HI);
 				Att.playTone(Att.TONE_ALERT_LO);
 			}
-		}
+		}		
 	}	
+	
+	function BacklightOn()
+	{
+		if(backlightOn)
+		{
+			return;
+		}
+		var hasLight = Att has :backlight;
+		if(GlobalSetup.Light)
+		{
+			if(hasLight)
+			{
+				Att.backlight(true);
+				backlightOn = true;				
+				backlightTimer.start(method(:BacklightOff), backlightDuration * 1000, false);
+			}
+		}
+	}
+	
+	function BacklightOff()
+	{		
+		Att.backlight(false);
+		backlightOn = false;		
+	}
 }

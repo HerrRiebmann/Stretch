@@ -29,6 +29,11 @@ class StretchingDelegate extends Ui.BehaviorDelegate
 		{			
 			menu.addItem(Rez.Strings.menu_label_Sound, :item_5);
 		}
+		
+		if(Att has :backlight)
+		{			
+			menu.addItem(Rez.Strings.menu_label_Light, :item_6);
+		}
     }
     
     function onKey(evt)    

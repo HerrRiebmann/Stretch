@@ -16,7 +16,8 @@ class StretchingMenuDelegate extends Ui.MenuInputDelegate
 		  :item_2 => :Rest,  
 		  :item_3 => :Reputation,
 		  :item_4 => :Vibrate,  
-		  :item_5 => :Sound
+		  :item_5 => :Sound,
+		  :item_6 => :Light
 		};
     
 	    var symbol = functions[ item ];
@@ -49,8 +50,12 @@ class StretchingMenuDelegate extends Ui.MenuInputDelegate
     
     function Sound()
     {  
-    	ShowGenericPicker(GENERIC_PICKER_Bool, Ui.loadResource(Rez.Strings.menu_label_Sound) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Sound); 	
-    	    	
+    	ShowGenericPicker(GENERIC_PICKER_Bool, Ui.loadResource(Rez.Strings.menu_label_Sound) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Sound);    	
+    }
+    
+    function Light()
+    {  
+    	ShowGenericPicker(GENERIC_PICKER_Bool, Ui.loadResource(Rez.Strings.menu_label_Light) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Light);
     }    
     
     function ShowGenericPicker(type, title, object, symbol)
