@@ -21,6 +21,7 @@ In the menue, you can find:
 ###Images:
 ![Vivoactive](/Screenshots/Vivoactive.png?raw=true "Stretch - Vivoactive")
 ![VivoactiveHR](/Screenshots/VivoactiveHR.png?raw=true "Stretch - VivoactiveHR")
+![Fenix3](/Screenshots/Fenix3.png?raw=true "Stretch - Fenix3")
 
 ###Infos:
 The top area shows if Connect Mobile is connected and how many notifications you got.
