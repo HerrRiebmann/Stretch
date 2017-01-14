@@ -49,3 +49,6 @@ eclipse Mars2
 SDK 1.2.x (_Epix_)
 
 SDK 1.3.x (_All other devices_)
+
+###Download
+[Garmin Connect IQ Store](https://apps.garmin.com/de-DE/apps/277002f0-29ab-4b08-98dd-f2ea045bf1d6)
