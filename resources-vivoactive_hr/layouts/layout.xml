@@ -4,7 +4,7 @@
 	<label id="heartrate" x="45" y="-1" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_SMALL"/>
 	<bitmap id="Bluetooth" x="75" y="0" filename="..\Drawables\Bluetooth32.png" />	
 	<bitmap id="Messages" x="105" y="1" filename="..\Drawables\Message20x20.png" /> 
-	<label id="MessageCounter" x="115" y="-1" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_SMALL"/>
+	<label id="MessageCounter" x="115" y="-2" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_SMALL"/>
 	<label id="lblTypeActive" x="15" y="45" text="@Strings.main_label_Rest" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_SMALL"/>	
     <label id="time" x="140" y="20" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_SMALL"/>
     <label id="lblElapse" x="74" y="70" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_THAI_HOT"/>
