@@ -14,6 +14,7 @@ In the menue, you can find:
 - **Reputation** -> Number of Reputations. Timer will stop automatically. 0 means no auto. stop.
 - **Vibrate** -> Notification by vibration*
 - **Tone** -> Notification by sound*
+- **Backlight** -> 3 Seconds backlight*
 
 
 *_only if supported by device_
@@ -30,17 +31,29 @@ Also your current heartrate is displayed, when the strap is connected.
 ###Languages:
 - German
 - English
+- Swedish
 
-_...more to come_
+_...more with your help_
 
 ###Compatibility
 ####Devices
 - Vivoactive
 - Vivoactive HR
-- Forerunner 920 XT
 - Epix (SDK 1.2.X)
+- Fenix 3
+- Fenix 3 HR
+- Fenix Chronos
+- Fenix 5
+- Fenix 5 X
+- D2 Bravo
+- D2 Bravo Titanium
+- forerunner 230
+- forerunner 235
+- forerunner 630
+- forerunner 735 xt
+- forerunner 920 XT
 
-_...more to come_
+_...more on request_
 
 
 ####Development
