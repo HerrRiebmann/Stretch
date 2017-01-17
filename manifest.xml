@@ -4,8 +4,16 @@
         <iq:products>
             <iq:product id="fenix5"/>
             <iq:product id="fenix5x"/>
+            <iq:product id="fr630"/>
+            <iq:product id="fr235"/>
+            <iq:product id="fr735xt"/>
+            <iq:product id="fr230"/>
             <iq:product id="vivoactive"/>
             <iq:product id="fenix3"/>
+            <iq:product id="fenix3_hr"/>
+            <iq:product id="fenixchronos"/>
+            <iq:product id="d2bravo"/>
+            <iq:product id="d2bravo_titanium"/>
             <iq:product id="fr920xt"/>
             <iq:product id="vivoactive_hr"/>
         </iq:products>
@@ -17,6 +25,7 @@
         <iq:languages>
             <iq:language>deu</iq:language>
             <iq:language>eng</iq:language>
+            <iq:language>swe</iq:language>
         </iq:languages>
 
     </iq:application>

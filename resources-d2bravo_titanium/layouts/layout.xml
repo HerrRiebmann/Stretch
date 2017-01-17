@@ -1,0 +1,14 @@
+<layout id="MainLayout">
+	<drawable id="statusLayout" />
+	<bitmap id="Heart" x="45" y="16" filename="..\Drawables\Heart20x20.png" /> 
+	<label id="heartrate" x="70" y="14" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_SMALL"/>
+	<bitmap id="Bluetooth" x="105" y="16" filename="..\Drawables\Bluetooth32.png" />	
+	<bitmap id="Messages" x="130" y="16" filename="..\Drawables\Message20x20.png" /> 
+	<label id="MessageCounter" x="140" y="12" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_SMALL"/>
+	<label id="lblTypeActive" x="15" y="55" text="@Strings.main_label_Rest" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_SMALL"/>	
+    <label id="time" x="190" y="40" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_SMALL"/>
+    <label id="lblElapse" x="109" y="60" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_THAI_HOT"/>    
+    <label id="lblTypeNext" x="110" y="163" text="@Strings.main_label_Stretch" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_SMALL"/>	
+	<label id="lblNext" x="120" y="160" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_MEDIUM"/>    
+	<label id="lblRep" x="109" y="180" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM"/>
+</layout>
