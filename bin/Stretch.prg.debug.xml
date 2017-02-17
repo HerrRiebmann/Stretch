@@ -385,10 +385,10 @@
 <entry filename="Rez" lineNum="83" pc="268444217" symbol="MainLayout"/>
 <entry filename="Rez" lineNum="84" pc="268444318" symbol="MainLayout"/>
 <entry filename="Rez" lineNum="85" pc="268444451" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="86" pc="268444584" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="86" pc="268444612" symbol="MainLayout"/>
 <entry filename="Rez" lineNum="87" pc="268444745" symbol="MainLayout"/>
 <entry filename="Rez" lineNum="88" pc="268444878" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="89" pc="268445039" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="89" pc="268445011" symbol="MainLayout"/>
 <entry filename="Rez" lineNum="90" pc="268445172" symbol="MainLayout"/>
 <entry filename="Rez" lineNum="93" pc="268445305" symbol="MainLayout"/>
 </pcToLineNum>
@@ -570,18 +570,18 @@
 <entry endPc="268443579" name="pY" stackId="3" startPc="268443517"/>
 <entry endPc="268443579" name="pX" stackId="2" startPc="268443517"/>
 <entry endPc="268443579" name="pHeight" stackId="5" startPc="268443517"/>
-<entry endPc="268445432" name="rez_cmp_local_bitmap_lblTypeActive" stackId="9" startPc="268443803"/>
+<entry endPc="268445432" name="rez_cmp_local_bitmap_lblTypeActive" stackId="8" startPc="268443803"/>
 <entry endPc="268445432" name="rez_cmp_local_bitmap_MessageCounter" stackId="7" startPc="268443803"/>
-<entry endPc="268445432" name="rez_cmp_local_bitmap_lblTypeNext" stackId="11" startPc="268443803"/>
+<entry endPc="268445432" name="rez_cmp_local_bitmap_lblTypeNext" stackId="12" startPc="268443803"/>
 <entry endPc="268445432" name="rez_cmp_local_bitmap_Bluetooth" stackId="5" startPc="268443803"/>
 <entry endPc="268445432" name="rez_cmp_local_bitmap_heartrate" stackId="4" startPc="268443803"/>
-<entry endPc="268445432" name="rez_cmp_local_bitmap_lblNext" stackId="12" startPc="268443803"/>
+<entry endPc="268445432" name="rez_cmp_local_bitmap_lblNext" stackId="13" startPc="268443803"/>
 <entry endPc="268445432" name="rez_cmp_local_bitmap_lblElapse" stackId="10" startPc="268443803"/>
 <entry endPc="268445432" name="rez_cmp_local_bitmap_Messages" stackId="6" startPc="268443803"/>
 <entry endPc="268445432" name="rez_cmp_local_custom_drawable_statusLayout" stackId="2" startPc="268443803"/>
-<entry endPc="268445432" name="rez_cmp_local_bitmap_lblRep" stackId="13" startPc="268443803"/>
+<entry endPc="268445432" name="rez_cmp_local_bitmap_lblRep" stackId="11" startPc="268443803"/>
 <entry endPc="268445432" name="rez_cmp_local_bitmap_Heart" stackId="3" startPc="268443803"/>
-<entry endPc="268445432" name="rez_cmp_local_bitmap_time" stackId="8" startPc="268443803"/>
+<entry endPc="268445432" name="rez_cmp_local_bitmap_time" stackId="9" startPc="268443803"/>
 </localVars>
 <annotations/>
 <functions>
