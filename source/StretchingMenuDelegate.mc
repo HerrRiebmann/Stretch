@@ -17,7 +17,8 @@ class StretchingMenuDelegate extends Ui.MenuInputDelegate
 		  :item_3 => :Reputation,
 		  :item_4 => :Vibrate,  
 		  :item_5 => :Sound,
-		  :item_6 => :Light
+		  :item_6 => :Light,
+		  :item_7 => :Autostart
 		};
     
 	    var symbol = functions[ item ];
@@ -26,6 +27,7 @@ class StretchingMenuDelegate extends Ui.MenuInputDelegate
 		    var handler = self.method(symbol);
 		    handler.invoke();   
         }
+        GlobalSetup.Modified = true;
     }
     
     function Timer()
@@ -56,7 +58,12 @@ class StretchingMenuDelegate extends Ui.MenuInputDelegate
     function Light()
     {  
     	ShowGenericPicker(GENERIC_PICKER_Bool, Ui.loadResource(Rez.Strings.menu_label_Light) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Light);
-    }    
+    }
+    
+    function Autostart()
+    {  
+    	ShowGenericPicker(GENERIC_PICKER_Bool, Ui.loadResource(Rez.Strings.menu_label_Autostart) + Ui.loadResource(Rez.Strings.main_label_Activate), GlobalSetup, :Autostart);
+    }
     
     function ShowGenericPicker(type, title, object, symbol)
     {    	    	    

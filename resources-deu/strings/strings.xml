@@ -1,11 +1,12 @@
 <strings>
     <string id="AppName">Dehnen</string>   
-    <string id="menu_label_Timer">Dehnen</string>
-    <string id="menu_label_Rest">Wechsel</string>
+    <string id="menu_label_Timer">Intervall Dehnen</string>
+    <string id="menu_label_Rest">Intervall Wechsel</string>
     <string id="menu_label_Rep">Wiederholungen</string>
     <string id="menu_label_Vibrate">Vibration</string>
     <string id="menu_label_Sound">Ton</string>
     <string id="menu_label_Light">Beleuchtung</string>
+    <string id="menu_label_Autostart">Autostart</string>
     <string id="main_label_Stretch">Dehnen</string>
     <string id="main_label_Rest">Wechsel</string>
     <string id="main_label_Activate"> aktivieren</string>

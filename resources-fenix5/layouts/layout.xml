@@ -8,7 +8,7 @@
 	<label id="lblTypeActive" x="15" y="55" text="@Strings.main_label_Rest" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_SMALL"/>	
     <label id="time" x="190" y="40" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_SMALL"/>
     <label id="lblElapse" x="120" y="90" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_THAI_HOT"/>    
-    <label id="lblTypeNext" x="110" y="173" text="@Strings.main_label_Stretch" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_SMALL"/>	
-	<label id="lblNext" x="120" y="170" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_MEDIUM"/>    
+    <label id="lblTypeNext" x="120" y="173" text="@Strings.main_label_Stretch" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_SMALL"/>	
+	<label id="lblNext" x="130" y="170" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_MEDIUM"/>    
 	<label id="lblRep" x="120" y="200" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM"/>
 </layout>

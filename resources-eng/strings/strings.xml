@@ -1,12 +1,13 @@
 <strings>
     <string id="AppName">Stretch</string>   
-    <string id="menu_label_Timer">Stretch</string>
-    <string id="menu_label_Rest">Change</string>
-    <string id="menu_label_Rep">Reputation</string>
+    <string id="menu_label_Timer">Stretch interval</string>
+    <string id="menu_label_Rest">Transition interval</string>
+    <string id="menu_label_Rep">Repetition</string>
     <string id="menu_label_Vibrate">Vibrate</string>
     <string id="menu_label_Sound">Sound</string>
     <string id="menu_label_Light">Backlight</string>
+    <string id="menu_label_Autostart">Autostart</string>
     <string id="main_label_Stretch">Stretch</string>
-    <string id="main_label_Rest">Change</string>
+    <string id="main_label_Rest">Transition</string>
     <string id="main_label_Activate"> activating</string>
 </strings>

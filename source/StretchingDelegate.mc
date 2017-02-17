@@ -52,8 +52,14 @@ class StretchingDelegate extends Ui.BehaviorDelegate
     	}
     	//Back
     	else if(key == Ui.KEY_ESC)
-	    {	    	   
-        	Sys.println("ESC-Key: Rollback");          	
+	    {	   
+	    	if(StretchTimer.running)
+	    	{
+	    		Sys.println("Start/Stop Activity");
+	    		StretchTimer.ToggleStart();
+	    		return true;
+	    	} 	   
+        	Sys.println("ESC-Key: Quit");          	
     	}
     	//Menu
 		else if(key == Ui.KEY_MENU)

@@ -7,6 +7,7 @@
     <string id="menu_label_Sound">Ljud</string>
     <string id="menu_label_Light">Belysning</string>
     <string id="main_label_Stretch">Töjning</string>
+    <string id="menu_label_Autostart">Autostart</string>
     <string id="main_label_Rest">Omväxling</string>
     <string id="main_label_Activate"> aktivera</string>
 </strings>

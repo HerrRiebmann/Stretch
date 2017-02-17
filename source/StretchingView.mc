@@ -15,10 +15,11 @@ class StretchingView extends Ui.View
     {
         View.initialize();        
         onTimer();
-        timer = new Timer.Timer();
+        timer = new Timer.Timer();        
         //timer.start(method(:onTimer), callbackTime, true);
         Snsr.setEnabledSensors( [Snsr.SENSOR_HEARTRATE] );
         Snsr.enableSensorEvents( method(:onSnsr));
+        StretchTimer.running = GlobalSetup.Autostart;
     }
 
     //! Load your resources here
@@ -31,7 +32,9 @@ class StretchingView extends Ui.View
     //! the state of this View and prepare it to be shown. This includes
     //! loading resources into memory.
     function onShow()
-    {    	   
+    {
+    	//Call once to avoid waiting one second
+    	onTimer();    	   
         timer.start(method(:onTimer), callbackTime, true);
     }
 

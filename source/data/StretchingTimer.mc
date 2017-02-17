@@ -8,7 +8,7 @@ class StretchingTimer
 		Long,
 		Double
 	}
-
+	
 	var running = false;
 	hidden var stretchActive = false;
 	hidden var restActive = true;
@@ -21,7 +21,7 @@ class StretchingTimer
 	function initialize()
 	{
 		Init();
-		backlightTimer = new Timer.Timer();
+		backlightTimer = new Timer.Timer();		
 	}
 	
 	function Init()
@@ -82,6 +82,18 @@ class StretchingTimer
 	{
 		if(!running)
 		{
+			if(GlobalSetup.Modified)
+			{
+				GlobalSetup.Modified = false;
+				if(stretchActive)
+				{
+					timeToElapse = GlobalSetup.StretchDuration.value();
+				}	
+				else
+				{
+					timeToElapse = GlobalSetup.RestDuration.value();
+				}
+			}
 			return;
 		}
 		
