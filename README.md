@@ -10,11 +10,12 @@ Another timer allows you to change your position.
 Start/Stop the timer by pressing "Enter" or "Start".
 In the menue, you can find:
 - **Stretch** -> to setup your stretching duration
-- **Change** -> time to change position (can be zero)
-- **Reputation** -> Number of Reputations. Timer will stop automatically. 0 means no auto. stop.
+- **Transition** -> time to change position/side/ect (can be zero)
+- **Repetition** -> Number of repetitions. Timer will stop automatically. 0 means no auto. stop.
 - **Vibrate** -> Notification by vibration*
-- **Tone** -> Notification by sound*
+- **Sound** -> Notification by tone*
 - **Backlight** -> 3 Seconds backlight*
+- **Autostart** -> Timer starts automatically
 
 
 *_only if supported by device_
@@ -32,26 +33,32 @@ Also your current heartrate is displayed, when the strap is connected.
 - German
 - English
 - Swedish
+- Spanish
 
 _...more with your help_
 
 ###Compatibility
 ####Devices
-- Vivoactive
-- Vivoactive HR
+- Vivoactive®
+- Vivoactive® HR
 - Epix (SDK 1.2.X)
-- Fenix 3
-- Fenix 3 HR
-- Fenix Chronos
-- Fenix 5
-- Fenix 5 X
-- D2 Bravo
-- D2 Bravo Titanium
-- forerunner 230
-- forerunner 235
-- forerunner 630
-- forerunner 735 xt
-- forerunner 920 XT
+- Fenix® 3
+- Fenix® 3 HR
+- Fenix® Chronos
+- Fenix® 5
+- Fenix® 5 X
+- D2™ Bravo
+- D2™ Bravo Titanium
+- forerunner® 230
+- forerunner® 235
+- forerunner® 630
+- forerunner® 735 xt
+- forerunner® 920 XT
+- ForeAthlete® 230J
+- ForeAthlete® 235J
+- ForeAthlete® 630J
+- ForeAthlete® 735XTJ
+- ForeAthlete® 920XTJ
 
 _...more on request_
 
