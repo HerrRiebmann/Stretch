@@ -72,3 +72,6 @@ SDK 1.3.x (_All other devices_)
 
 ###Download
 [Garmin Connect IQ Store](https://apps.garmin.com/de-DE/apps/277002f0-29ab-4b08-98dd-f2ea045bf1d6)
+
+###Forum
+[Garmin Connect IQ Showcase](https://forums.garmin.com/showthread.php?368157-App-Stretch)
