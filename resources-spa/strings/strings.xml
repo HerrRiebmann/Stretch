@@ -10,4 +10,8 @@
     <string id="main_label_Stretch">Estirar</string>
     <string id="main_label_Rest">Cambio</string>
     <string id="main_label_Activate"> aktivar</string>
+    <string id="menu_label_Recording">Grabación</string>
+    <string id="unit_Duration">s</string>
+    <string id="unit_Rep">rep</string>
+    <string id="setup_label">Preparar</string>
 </strings>

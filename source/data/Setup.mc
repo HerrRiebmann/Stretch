@@ -13,7 +13,8 @@ class Setup
 	    Vibrate_KEY,
 	    Sound_KEY,
 	    Light_KEY,
-	    Autostart_KEY
+	    Autostart_KEY,
+	    Recording_KEY
 	}
 
 	var StretchDuration = Calendar.duration( {:hours=>0, :minutes=>0, :seconds=>45} );
@@ -24,6 +25,7 @@ class Setup
 	var Light = false;
 	var Modified = false;
 	var Autostart = false;
+	var Recording = false;
 	
 	function initialize()
     {
@@ -68,6 +70,11 @@ class Setup
     	if(value != null)
     	{
     		Autostart = value;
+    	}    	
+    	value = app.getProperty(Recording_KEY);
+    	if(value != null)
+    	{
+    		Recording = value;
     	}
     }
     
@@ -81,5 +88,6 @@ class Setup
     	app.setProperty(Sound_KEY, Sound);
     	app.setProperty(Light_KEY, Light);
     	app.setProperty(Autostart_KEY, Autostart);
+    	app.setProperty(Recording_KEY, Recording);
     }
 }

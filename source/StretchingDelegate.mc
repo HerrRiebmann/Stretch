@@ -13,6 +13,7 @@ class StretchingDelegate extends Ui.BehaviorDelegate
     {
     	StretchTimer.running = false;
     	var menu = new Rez.Menus.MainMenu();
+    	menu.setTitle(Rez.Strings.setup_label);
     	AddSupport(menu);
         Ui.pushView(menu, new StretchingMenuDelegate(), Ui.SLIDE_UP);
         return true;

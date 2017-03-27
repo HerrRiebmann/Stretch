@@ -10,4 +10,8 @@
     <string id="main_label_Stretch">Dehnen</string>
     <string id="main_label_Rest">Wechsel</string>
     <string id="main_label_Activate"> aktivieren</string>
+    <string id="menu_label_Recording">Aufzeichnung</string>
+    <string id="unit_Duration">s</string>
+    <string id="unit_Rep">wdh</string>
+    <string id="setup_label">Einrichtung</string>
 </strings>

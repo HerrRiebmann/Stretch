@@ -11,4 +11,5 @@
     <label id="lblTypeNext" x="120" y="173" text="@Strings.main_label_Stretch" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_SMALL"/>	
 	<label id="lblNext" x="130" y="170" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_MEDIUM"/>    
 	<label id="lblRep" x="120" y="200" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM"/>
+	<bitmap id="bmpRecording" x="173" y="18" filename="..\Drawables\Recording15x15.png" />
 </layout>

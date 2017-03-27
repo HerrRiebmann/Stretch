@@ -1,0 +1,23 @@
+<resources>
+    <fitContributions>
+
+        <fitField id="0"
+        displayInActivitySummary="true"
+        sortOrder = "0"
+        precision="0"
+        displayInActivityLaps="true"
+        dataLabel="@Strings.menu_label_Rep"
+        unitLabel="@Strings.unit_Rep" />
+
+        <fitField id="1"
+        displayInChart="true"        
+        sortOrder = "1"
+        precision="0"
+        displayInActivityLaps="true"
+        chartTitle="@Strings.menu_label_Timer"
+        dataLabel="@Strings.menu_label_Timer"
+        unitLabel="@Strings.unit_Duration"
+        fillColor="#00FF00" />
+
+    </fitContributions>
+</resources>

@@ -10,4 +10,8 @@
     <string id="main_label_Stretch">Stretch</string>
     <string id="main_label_Rest">Transition</string>
     <string id="main_label_Activate"> activating</string>
+    <string id="menu_label_Recording">Recording</string>
+    <string id="unit_Duration">s</string>
+    <string id="unit_Rep">rep</string>
+    <string id="setup_label">Setup</string>
 </strings>

@@ -1,4 +1,5 @@
 using Toybox.Attention as Att;
+using Toybox.System as Sys;
 
 class StretchingTimer
 {
@@ -12,6 +13,7 @@ class StretchingTimer
 	var running = false;
 	hidden var stretchActive = false;
 	hidden var restActive = true;
+	hidden var lastTick = 0;
 	var reputation = 0;
 	var timeToElapse = 0;
 	var backlightTimer;
@@ -31,6 +33,11 @@ class StretchingTimer
 		restActive = true;
 		reputation = 1;		
 		timeToElapse = GlobalSetup.RestDuration.value();
+		//lastTick = Sys.getTimer();
+		//if(GlobalSetup.Autostart)
+		//{
+		//	timeToElapse += 1;
+		//}
 	}
 	
 	function StretchActive(active)
@@ -75,6 +82,7 @@ class StretchingTimer
 		{
 			running = false;
 		}
+		ActivityRecorder.ToggleRecording();
 	}
 		
 	
@@ -97,6 +105,15 @@ class StretchingTimer
 			return;
 		}
 		
+		/*
+		//Timer-Test
+		if(lastTick + 1000 >= Sys.getTimer())
+		{
+			return;
+		}
+				
+		lastTick = Sys.getTimer();		
+		*/
 		timeToElapse -= 1;
 		
 		if(timeToElapse < 0)
@@ -112,6 +129,13 @@ class StretchingTimer
 						BacklightOn();
 					}
 					Notify(Double);
+					
+					//ToDo: Check if Lap should be added every time
+					//if(reputation % 2 == 0)
+					if(true)
+					{
+						ActivityRecorder.AddLap();
+					}
 				}
 			}
 			else

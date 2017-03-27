@@ -3,11 +3,18 @@ using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Sensor as Snsr;
 
+/*//Ideas
+Optimize Timer (real second)
+Multiple Timers
+Naming Timers (via Smartphone)
+Activity Recording (Laps & Indy Fields) -> Beta Test
+*/
+
 class StretchingView extends Ui.View
 {
 	var timer;
-	var callbackTime = 1000;//1 Sec
-	var ticks = 60;
+	//Timer-Test
+	var callbackTime = 1000;//1 Sec	
 	var btAvailable = null;
 	var notiAvailable = null;
 	
@@ -20,6 +27,10 @@ class StretchingView extends Ui.View
         Snsr.setEnabledSensors( [Snsr.SENSOR_HEARTRATE] );
         Snsr.enableSensorEvents( method(:onSnsr));
         StretchTimer.running = GlobalSetup.Autostart;
+        if(GlobalSetup.Autostart)
+        {
+        	ActivityRecorder.ToggleRecording();
+        }
     }
 
     //! Load your resources here
@@ -35,7 +46,7 @@ class StretchingView extends Ui.View
     {
     	//Call once to avoid waiting one second
     	onTimer();    	   
-        timer.start(method(:onTimer), callbackTime, true);
+        timer.start(method(:onTimer), callbackTime, true);        
     }
 
     //! Update the view
@@ -45,6 +56,7 @@ class StretchingView extends Ui.View
         View.onUpdate(dc);        
         setTime();
         setPhoneStatus();
+        setRecordingStatus();
         UpdateTimer(dc);
     }
 
@@ -199,6 +211,24 @@ class StretchingView extends Ui.View
 		return true;
 	}
 
+	function setRecordingStatus()
+	{
+		var view = View.findDrawableById("bmpRecording");
+		if(ActivityRecorder.IsRecording())
+		{
+			if(view.locX < 0)
+	        {
+	        	view.locX *= -1;
+	        }
+        }else
+        {
+        	if(view.locX > 0)
+            {
+            	view.locX *= -1;
+            } 
+        }
+	}
+
     //! Called when this View is removed from the screen. Save the
     //! state of this View here. This includes freeing resources from
     //! memory.
@@ -207,8 +237,9 @@ class StretchingView extends Ui.View
     	if(StretchTimer.running)
         {        	        	
 			StretchTimer.running = false;
+			ActivityRecorder.ToggleRecording();
         }   
-        timer.stop();
+        timer.stop();        
     }
     
     function onTimer()

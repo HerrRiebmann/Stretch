@@ -10,4 +10,8 @@
     <string id="menu_label_Autostart">Autostart</string>
     <string id="main_label_Rest">Omväxling</string>
     <string id="main_label_Activate"> aktivera</string>
+    <string id="menu_label_Recording">Inspelning</string>
+    <string id="unit_Duration">s</string>
+    <string id="unit_Rep">upp</string>
+    <string id="setup_label">Inrätta</string>
 </strings>

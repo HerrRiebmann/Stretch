@@ -10,5 +10,6 @@
     <label id="lblElapse" x="74" y="70" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_THAI_HOT"/>
     <label id="lblRep" x="145" y="155" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_MEDIUM"/>
     <label id="lblTypeNext" x="90" y="183" text="@Strings.main_label_Stretch" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_SMALL"/>	
-	<label id="lblNext" x="100" y="180" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_MEDIUM"/>    
+	<label id="lblNext" x="100" y="180" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_MEDIUM"/>
+	<bitmap id="bmpRecording" x="130" y="2" filename="..\Drawables\Recording15x15.png" />    
 </layout>

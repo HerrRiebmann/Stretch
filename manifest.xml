@@ -4,6 +4,7 @@
         <iq:products>
             <iq:product id="fenix5"/>
             <iq:product id="fenix5x"/>
+            <iq:product id="fenix5s"/>
             <iq:product id="fr630"/>
             <iq:product id="fr235"/>
             <iq:product id="fr735xt"/>
@@ -20,6 +21,8 @@
         </iq:products>
 
         <iq:permissions>
+            <iq:uses-permission id="Fit"/>
+            <iq:uses-permission id="FitContributor"/>
             <iq:uses-permission id="Sensor"/>
         </iq:permissions>
 
