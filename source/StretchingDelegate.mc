@@ -59,7 +59,7 @@ class StretchingDelegate extends Ui.BehaviorDelegate
 	    		Sys.println("Start/Stop Activity");
 	    		StretchTimer.ToggleStart();
 	    		return true;
-	    	} 	   
+	    	}	    	   
         	Sys.println("ESC-Key: Quit");          	
     	}
     	//Menu
