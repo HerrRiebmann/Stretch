@@ -18,8 +18,7 @@ class Recorder
 	{
 		if(supportsRecording == null)
     	{
-    		supportsRecording = Toybox has :ActivityRecording;
-    		customField = new CustomField();
+    		supportsRecording = Toybox has :ActivityRecording;    		
     		Sys.println("Supports recording");    	    		
     	}
 	}
@@ -29,13 +28,15 @@ class Recorder
     	if(GlobalSetup.Recording && supportsRecording)
         {
             if(session == null )
-            {
-            	//SPORT_GENERIC
-            	//ToDo: Type?!?
-            	var str = Ui.loadResource(Rez.Strings.main_label_Stretch);	
+            {            	            	
+            	var str = Ui.loadResource(Rez.Strings.main_label_Stretch);
+            	if(GlobalSetup.ActivityName != null)
+            	{
+            		str = GlobalSetup.ActivityName;
+            	}
             	session = ARec.createSession({:name=>str,  :sport=>ARec.SPORT_TRAINING , :subSport=>ARec.SUB_SPORT_FLEXIBILITY_TRAINING });           	
             	
-				CreateCustomFields();
+				//CreateCustomFields();
             }
             if(session.isRecording())
             {                                                
@@ -45,53 +46,51 @@ class Recorder
             else
             {
              	session.start();
-             	Sys.println("Start recording");                                                
+             	Sys.println("Start recording");
+             	CreateCustomFields();             	                                               
             }
         }
     }
     function CreateCustomFields()
-    {	            
-    	if(Toybox has :FitContributor)
+    {	       
+    	if(customField != null)
     	{
-    		//DATA_TYPE_UINT8 = 2
-			//DATA_TYPE_INT32 = 5
-			//DATA_TYPE_STRING = 7
-			
-    		//Repetitions    		    		
-	    	var options = {
-			:msgType => Fit.MESG_TYPE_SESSION,
-			//:count => 1, // assuming the longest string you need to support is 9 characters long
-			:nativeNum=>113, //stand_count
-			:units => Ui.loadResource(Rez.Strings.unit_Rep)
-			};			
-			//0 Field ID						
-		    //repetitionField = session.createField(Ui.loadResource(Rez.Strings.menu_label_Rep), 0, Fit.DATA_TYPE_UINT8, options);
-		    repetitionField = customField.createField(Ui.loadResource(Rez.Strings.menu_label_Rep), 0, Fit.DATA_TYPE_UINT16, options);
+    		return;
+    	}     
+    	if(Toybox has :FitContributor)
+    	{    	
+    		customField = new CustomField();	
+    		//Repetitions Field ID 0			
+		    repetitionField = customField.createField(Ui.loadResource(Rez.Strings.menu_label_Rep), 0, Fit.DATA_TYPE_UINT16,		     
+			    {
+				:mesgType => Fit.MESG_TYPE_SESSION,			
+				:nativeNum=>113, //stand_count Uint16
+				:units => Ui.loadResource(Rez.Strings.unit_Rep)
+				});
 		    repetitionField.setData(0);
 		    
-		    //Stretch Duration    
-		    options = {
-			:msgType => Fit.MESG_TYPE_SESSION,
-			//:count => 1, // assuming the longest string you need to support is 9 characters long
-			:nativeNum=>112, //time_standing
-			:units => Ui.loadResource(Rez.Strings.unit_Duration)
-			};
-			//1 Field ID
-		    //durationField = session.createField(Ui.loadResource(Rez.Strings.menu_label_Timer), 1, Fit.DATA_TYPE_UINT16, options);
-		    durationField = customField.createField(Ui.loadResource(Rez.Strings.menu_label_Timer), 1, Fit.DATA_TYPE_UINT32, options);
+		    //Stretch Duration Field ID 1		    
+		    durationField = customField.createField(Ui.loadResource(Rez.Strings.menu_label_Timer), 1, Fit.DATA_TYPE_UINT32,	    
+		    
+			    {
+				:mesgType => Fit.MESG_TYPE_SESSION,			
+				//:nativeNum=>112, //time_standing Uint32 s
+				:units => Ui.loadResource(Rez.Strings.unit_Duration)
+				});
 		    durationField.setData(StretchTimer.GlobalSetup.StretchDuration.value());
 		    
-		    //Rest Interval
-			restingField = customField.createField(Ui.loadResource(Rez.Strings.menu_label_Rest), 2, Fit.DATA_TYPE_UINT16, 
-		    {
-			:msgType => Fit.MESG_TYPE_SESSION,			
-			:units => Ui.loadResource(Rez.Strings.unit_Duration)
-			});
-			restingField.setData(StretchTimer.GlobalSetup.RestDuration.value());
+		    //Rest Interval Field ID 2
+			restingField = customField.createField(Ui.loadResource(Rez.Strings.menu_label_Rest), 2, Fit.DATA_TYPE_UINT16,		 
+			
+			    {
+				:mesgType => Fit.MESG_TYPE_SESSION,
+				:units => Ui.loadResource(Rez.Strings.unit_Duration)
+				});
+			restingField.setData(StretchTimer.GlobalSetup.RestDuration.value());			
     	}
     	else
     	{
-    		Sys.println("Custom Fields not supported");
+    		Sys.println("Custom Fields not supported!");
     	}
 	    
     }
@@ -104,6 +103,8 @@ class Recorder
             {                                                
                	session.stop();               	              	                
             }
+            //CreateCustomFields();
+            
             if(repetitionField != null)
             {
             	repetitionField.setData(StretchTimer.reputation -1);
@@ -121,7 +122,8 @@ class Recorder
             	durationField.setData(StretchTimer.GlobalSetup.StretchDuration.value());
             	Sys.print("Duration: ");
             	Sys.println(StretchTimer.GlobalSetup.StretchDuration.value());
-        	}        	        	      
+        	} 
+        	      	        	      
             session.save();
             Sys.println("Store recording");        
         }
@@ -141,14 +143,16 @@ class Recorder
     
     function AddLap()
     {
-    	if(GlobalSetup.Recording && supportsRecording && (session != null) && session.isRecording())
+    	if(IsRecording())
     	{    	
     		session.addLap();    		
     		Sys.println("Add Lap");
+    		/*
     		if(repetitionField != null)
             {
             	repetitionField.setData(StretchTimer.reputation -1);            
         	}
+        	*/
     	}        
     }
     
@@ -174,13 +178,7 @@ class Recorder
 
 class CustomField extends Ui.DataField 
 {
-    // Label Variables
-    // Fit Contributor
-
-
-    // Constructor
     function initialize() {
-
-
+		//Ui.DataField.initialize();
     }
 }

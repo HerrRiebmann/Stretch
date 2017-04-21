@@ -1,0 +1,33 @@
+<resources>
+	<settings>
+    <setting propertyKey="@Properties.ActivityName_KEY" title="@Strings.settings_ActivityName">
+        <settingConfig type="alphaNumeric" readonly="false" maxLength="25"/>
+    </setting>    
+
+    <setting propertyKey="@Properties.Timer_KEY" title="@Strings.main_label_Stretch" prompt="@Strings.menu_label_Timer">
+        <settingConfig type="numeric" min="5" max="3600"/>
+    </setting>
+	<setting propertyKey="@Properties.Rest_KEY" title="@Strings.main_label_Rest" prompt="@Strings.menu_label_Rest">
+        <settingConfig type="numeric" min="0" max="3600"/>
+    </setting>
+	<setting propertyKey="@Properties.Reputation_KEY" title="@Strings.menu_label_Rep" prompt="@Strings.menu_label_Rep">
+        <settingConfig type="numeric" min="0" max="99"/>
+    </setting>
+
+    <setting propertyKey="@Properties.Vibrate_KEY" title="@Strings.menu_label_Vibrate">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.Sound_KEY" title="@Strings.menu_label_Sound">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.Light_KEY" title="@Strings.menu_label_Light">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.Autostart_KEY" title="@Strings.menu_label_Autostart">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.Recording_KEY" title="@Strings.menu_label_Recording">
+        <settingConfig type="boolean" />
+    </setting>  
+</settings>
+</resources>

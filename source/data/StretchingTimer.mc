@@ -33,6 +33,7 @@ class StretchingTimer
 		restActive = true;
 		reputation = 1;		
 		timeToElapse = GlobalSetup.RestDuration.value();
+		//More precise Timer-Test:
 		//lastTick = Sys.getTimer();
 		//if(GlobalSetup.Autostart)
 		//{
@@ -106,7 +107,7 @@ class StretchingTimer
 		}
 		
 		/*
-		//Timer-Test
+		//More precise Timer-Test:
 		if(lastTick + 1000 >= Sys.getTimer())
 		{
 			return;
@@ -114,6 +115,7 @@ class StretchingTimer
 				
 		lastTick = Sys.getTimer();		
 		*/
+		
 		timeToElapse -= 1;
 		
 		if(timeToElapse < 0)
@@ -130,7 +132,7 @@ class StretchingTimer
 					}
 					Notify(Double);
 					
-					//ToDo: Check if Lap should be added every time
+					//Only on every second repetition? 
 					//if(reputation % 2 == 0)
 					if(true)
 					{
@@ -140,7 +142,7 @@ class StretchingTimer
 			}
 			else
 			{
-				//Rest finished	
+				//Resting finished	
 				if(backlightDuration <= GlobalSetup.StretchDuration.value())
 				{
 					BacklightOn();

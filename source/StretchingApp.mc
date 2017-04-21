@@ -32,5 +32,9 @@ class StretchingApp extends App.AppBase
     {
         return [ new StretchingView(), new StretchingDelegate() ];
     }
-
+    
+	function onSettingsChanged()
+    {    	
+		GlobalSetup.LoadSetup();		
+	}
 }

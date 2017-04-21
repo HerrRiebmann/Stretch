@@ -1,0 +1,24 @@
+<resources>
+    <fitContributions>
+        <fitField id="0"
+        displayInActivitySummary="true"        
+        dataLabel="@Strings.menu_label_Rep"
+        unitLabel="@Strings.unit_Rep"
+        sortOrder = "0"
+        precision="0"/>
+
+        <fitField id="1"
+        displayInActivitySummary="true"
+        dataLabel="@Strings.menu_label_Timer"
+        unitLabel="@Strings.unit_Duration"
+        sortOrder = "1"
+        precision="0"/>
+        
+        <fitField id="2"
+        displayInActivitySummary="true"        
+        dataLabel="@Strings.menu_label_Rest"
+        unitLabel="@Strings.unit_Duration"
+        sortOrder = "2"
+        precision="0"/>
+    </fitContributions>
+</resources>

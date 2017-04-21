@@ -7,7 +7,6 @@ using Toybox.Sensor as Snsr;
 Optimize Timer (real second)
 Multiple Timers
 Naming Timers (via Smartphone)
-Activity Recording (Laps & Indy Fields) -> Beta Test
 */
 
 class StretchingView extends Ui.View
@@ -59,7 +58,7 @@ class StretchingView extends Ui.View
         setRecordingStatus();
         UpdateTimer(dc);
     }
-
+    
 	function UpdateTimer(dc)
 	{		
         var view = View.findDrawableById("lblElapse");
@@ -206,8 +205,7 @@ class StretchingView extends Ui.View
 	            view = View.findDrawableById("MessageCounter");
 	            view.setText("");
 	        }	
-		}
-		
+		}		
 		return true;
 	}
 

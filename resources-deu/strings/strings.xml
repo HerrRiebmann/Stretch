@@ -14,4 +14,5 @@
     <string id="unit_Duration">s</string>
     <string id="unit_Rep">wdh</string>
     <string id="setup_label">Einrichtung</string>
+    <string id="settings_ActivityName">Aktivitätsname</string>
 </strings>
