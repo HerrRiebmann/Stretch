@@ -15,4 +15,8 @@
     <string id="unit_Rep">rep</string>
     <string id="setup_label">Preparar</string>
     <string id="settings_ActivityName">Nombre de la actividad</string>
+    <!-- S/Stock Fields -->
+    <string id="TimeInPowerZone">tiempo de carga</string>
+    <string id="TimeStanding">tiempo de alivio</string>
+    <!-- E/Stock Fields -->
 </strings>

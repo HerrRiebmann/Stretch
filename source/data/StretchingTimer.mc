@@ -242,13 +242,13 @@ class StretchingTimer
 		}
 		var hasLight = Att has :backlight;
 		if(GlobalSetup.Light)
-		{
+		{			
 			if(hasLight)
 			{
 				Att.backlight(true);
 				backlightOn = true;				
 				backlightTimer.start(method(:BacklightOff), backlightDuration * 1000, false);
-			}
+			}			
 		}
 	}
 	

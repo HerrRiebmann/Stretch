@@ -1,5 +1,17 @@
 <resources>
-    <fitContributions>
+	<properties>
+	    <property id="AppVersion" type="string">2.0.2</property>
+	    <property id="ActivityName_KEY" type="string"></property>
+	    <property id="Timer_KEY" type="number">45</property>
+	    <property id="Rest_KEY" type="number">5</property>
+	    <property id="Reputation_KEY" type="number">0</property>
+	    <property id="Vibrate_KEY" type="boolean">true</property>
+	    <property id="Sound_KEY" type="boolean">true</property>
+	    <property id="Light_KEY" type="boolean">true</property>
+	    <property id="Autostart_KEY" type="boolean">false</property>
+	    <property id="Recording_KEY" type="boolean">true</property>	    
+	</properties>
+	<fitContributions>
         <fitField id="0"
         displayInActivitySummary="true"        
         dataLabel="@Strings.menu_label_Rep"
@@ -20,5 +32,19 @@
         unitLabel="@Strings.unit_Duration"
         sortOrder = "2"
         precision="0"/>
-    </fitContributions>
+        
+        <fitField id="3"
+        displayInActivitySummary="true"        
+        dataLabel="@Strings.TimeInPowerZone"
+        unitLabel="@Strings.unit_Duration"
+        sortOrder = "3"
+        precision="0"/>
+
+        <fitField id="4"
+        displayInActivitySummary="true"        
+        dataLabel="@Strings.TimeStanding"
+        unitLabel="@Strings.unit_Duration"
+        sortOrder = "4"
+        precision="0"/>
+	</fitContributions>
 </resources>

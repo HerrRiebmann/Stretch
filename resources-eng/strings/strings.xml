@@ -15,4 +15,8 @@
     <string id="unit_Rep">rep</string>
     <string id="setup_label">Setup</string>
     <string id="settings_ActivityName">Activity Name</string>
+    <!-- S/Stock Fields -->
+    <string id="TimeInPowerZone">Time in powerzone</string>
+    <string id="TimeStanding">Time standing</string>
+    <!-- E/Stock Fields -->
 </strings>
