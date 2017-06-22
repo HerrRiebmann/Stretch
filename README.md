@@ -56,6 +56,7 @@ _...more with your help_
 - forerunner® 630
 - forerunner® 735 xt
 - forerunner® 920 XT
+- forerunner® 935
 - ForeAthlete® 230J
 - ForeAthlete® 235J
 - ForeAthlete® 630J
