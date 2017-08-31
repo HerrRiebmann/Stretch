@@ -11,7 +11,10 @@ class StretchingDelegate extends Ui.BehaviorDelegate
 
     function onMenu()
     {
-    	StretchTimer.running = false;
+    	if(StretchTimer.running)
+    	{
+    		StretchTimer.ToggleStart();
+    	}
     	var menu = new Rez.Menus.MainMenu();
     	menu.setTitle(Rez.Strings.setup_label);
     	AddSupport(menu);
@@ -23,7 +26,7 @@ class StretchingDelegate extends Ui.BehaviorDelegate
     {   
 		if(Att has :vibrate)
 		{						
-			menu.addItem(Rez.Strings.menu_label_Vibrate, :item_4);
+			menu.addItem(Rez.Strings.menu_label_Vibrate, :item_4);			
 		}
 		
 		if(Att has :playTone)

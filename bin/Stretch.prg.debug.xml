@@ -344,402 +344,413 @@
 <entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="9" pc="268442332" symbol="initialize"/>
 <entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="12" pc="268442351" symbol="onMenu"/>
 <entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="14" pc="268442355" symbol="onMenu"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="15" pc="268442371" symbol="onMenu"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="16" pc="268442407" symbol="onMenu"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="17" pc="268442439" symbol="onMenu"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="18" pc="268442453" symbol="onMenu"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="19" pc="268442505" symbol="onMenu"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="22" pc="268442509" symbol="AddSupport"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="24" pc="268442513" symbol="AddSupport"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="26" pc="268442528" symbol="AddSupport"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="29" pc="268442568" symbol="AddSupport"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="31" pc="268442583" symbol="AddSupport"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="34" pc="268442623" symbol="AddSupport"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="36" pc="268442638" symbol="AddSupport"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="40" pc="268442679" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="42" pc="268442683" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="44" pc="268442696" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="46" pc="268442714" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="47" pc="268442735" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="52" pc="268442774" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="57" pc="268442816" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="59" pc="268442833" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="60" pc="268442854" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="61" pc="268442872" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="63" pc="268442878" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="68" pc="268442920" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="72" pc="268442983" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="73" pc="268442995" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="77" pc="268443001" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="79" pc="268443034" symbol="onKey"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="10" pc="268443038" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="12" pc="268443042" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="13" pc="268443060" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="14" pc="268443090" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="15" pc="268443120" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="19" pc="268443151" symbol="onStart"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="24" pc="268443156" symbol="onStop"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="26" pc="268443160" symbol="onStop"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="27" pc="268443178" symbol="onStop"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="31" pc="268443197" symbol="getInitialView"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="33" pc="268443201" symbol="getInitialView"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="36" pc="268443269" symbol="onSettingsChanged"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="38" pc="268443273" symbol="onSettingsChanged"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="21" pc="268443292" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="23" pc="268443296" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="25" pc="268443309" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="26" pc="268443331" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="30" pc="268443356" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="32" pc="268443360" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="34" pc="268443391" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="36" pc="268443404" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="37" pc="268443441" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="39" pc="268443460" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="41" pc="268443479" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="44" pc="268443561" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="46" pc="268443581" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="47" pc="268443599" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="51" pc="268443623" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="52" pc="268443641" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="54" pc="268443662" symbol="ToggleRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="58" pc="268443678" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="60" pc="268443682" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="62" pc="268443695" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="64" pc="268443699" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="66" pc="268443716" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="68" pc="268443746" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="74" pc="268443905" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="77" pc="268443928" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="84" pc="268444074" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="87" pc="268444121" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="92" pc="268444267" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="95" pc="268444314" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="102" pc="268444473" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="111" pc="268444635" symbol="CreateCustomFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="116" pc="268444657" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="118" pc="268444661" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="119" pc="268444683" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="121" pc="268444696" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="122" pc="268444716" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="123" pc="268444737" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="125" pc="268444758" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="127" pc="268444771" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="128" pc="268444818" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="129" pc="268444839" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="131" pc="268444887" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="133" pc="268444900" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="134" pc="268444947" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="135" pc="268444968" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="138" pc="268445016" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="141" pc="268445029" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="143" pc="268445082" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="146" pc="268445095" symbol="StoreFields"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="150" pc="268445149" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="152" pc="268445153" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="154" pc="268445200" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="156" pc="268445220" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="158" pc="268445241" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="159" pc="268445253" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="160" pc="268445271" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="165" pc="268445295" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="167" pc="268445322" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="169" pc="268445342" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="171" pc="268445363" symbol="SaveRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="176" pc="268445379" symbol="AddLap"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="178" pc="268445383" symbol="AddLap"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="180" pc="268445397" symbol="AddLap"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="181" pc="268445415" symbol="AddLap"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="185" pc="268445440" symbol="AbortRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="187" pc="268445444" symbol="AbortRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="189" pc="268445471" symbol="AbortRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="191" pc="268445491" symbol="AbortRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="193" pc="268445512" symbol="AbortRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="194" pc="268445530" symbol="AbortRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="195" pc="268445539" symbol="AbortRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="199" pc="268445564" symbol="IsRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="201" pc="268445568" symbol="IsRecording"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="207" pc="268445637" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="16" pc="268445642" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="18" pc="268445646" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="19" pc="268445664" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="21" pc="268445675" symbol="getDrawable"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="23" pc="268445679" symbol="getDrawable"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="28" pc="268445792" symbol="getSize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="30" pc="268445796" symbol="getSize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="32" pc="268445806" symbol="getValue"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="34" pc="268445810" symbol="getValue"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="42" pc="268445814" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="44" pc="268445818" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="45" pc="268445836" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="46" pc="268445846" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="49" pc="268445857" symbol="onResponse"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="51" pc="268445861" symbol="onResponse"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="61" pc="268445887" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="63" pc="268445891" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="64" pc="268445909" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="65" pc="268445919" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="66" pc="268445929" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="69" pc="268445940" symbol="onAccept"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="72" pc="268445944" symbol="onAccept"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="74" pc="268445964" symbol="onAccept"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="79" pc="268446035" symbol="onAccept"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="81" pc="268446121" symbol="onAccept"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="82" pc="268446149" symbol="onAccept"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="84" pc="268446153" symbol="onCancel"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="86" pc="268446157" symbol="onCancel"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="87" pc="268446185" symbol="onCancel"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="93" pc="268446189" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="95" pc="268446193" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="96" pc="268446200" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="98" pc="268446243" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="105" pc="268446457" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="107" pc="268446500" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="108" pc="268446530" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="111" pc="268446589" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="114" pc="268446603" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="116" pc="268446630" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="118" pc="268446646" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="119" pc="268446653" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="120" pc="268446660" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="122" pc="268446671" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="124" pc="268446684" symbol="initialize"/>
-<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="125" pc="268446694" symbol="initialize"/>
-<entry filename="Rez" lineNum="29" pc="268446954" symbol="initialize"/>
-<entry filename="Rez" lineNum="30" pc="268446958" symbol="initialize"/>
-<entry filename="Rez" lineNum="31" pc="268446976" symbol="initialize"/>
-<entry filename="Rez" lineNum="32" pc="268447028" symbol="initialize"/>
-<entry filename="Rez" lineNum="33" pc="268447080" symbol="initialize"/>
-<entry filename="Rez" lineNum="34" pc="268447132" symbol="initialize"/>
-<entry filename="Rez" lineNum="35" pc="268447184" symbol="initialize"/>
-<entry filename="Rez" lineNum="52" pc="268447237" symbol="initialize"/>
-<entry filename="Rez" lineNum="53" pc="268447241" symbol="initialize"/>
-<entry filename="Rez" lineNum="56" pc="268447266" symbol="draw"/>
-<entry filename="Rez" lineNum="57" pc="268447270" symbol="draw"/>
-<entry filename="Rez" lineNum="58" pc="268447277" symbol="draw"/>
-<entry filename="Rez" lineNum="59" pc="268447284" symbol="draw"/>
-<entry filename="Rez" lineNum="60" pc="268447297" symbol="draw"/>
-<entry filename="Rez" lineNum="61" pc="268447310" symbol="draw"/>
-<entry filename="Rez" lineNum="64" pc="268447333" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="65" pc="268447337" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="66" pc="268447373" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="67" pc="268447417" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="69" pc="268447453" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="70" pc="268447489" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="83" pc="268447552" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="85" pc="268447556" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="86" pc="268447592" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="87" pc="268447619" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="89" pc="268447635" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="90" pc="268447736" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="91" pc="268447869" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="92" pc="268447970" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="93" pc="268448071" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="94" pc="268448204" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="95" pc="268448365" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="96" pc="268448498" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="97" pc="268448631" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="98" pc="268448792" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="99" pc="268448925" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="102" pc="268449058" symbol="MainLayout"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="16" pc="268442372" symbol="onMenu"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="18" pc="268442393" symbol="onMenu"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="19" pc="268442429" symbol="onMenu"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="20" pc="268442461" symbol="onMenu"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="21" pc="268442475" symbol="onMenu"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="22" pc="268442527" symbol="onMenu"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="25" pc="268442531" symbol="AddSupport"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="27" pc="268442535" symbol="AddSupport"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="29" pc="268442550" symbol="AddSupport"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="32" pc="268442590" symbol="AddSupport"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="34" pc="268442605" symbol="AddSupport"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="37" pc="268442645" symbol="AddSupport"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="39" pc="268442660" symbol="AddSupport"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="43" pc="268442701" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="45" pc="268442705" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="47" pc="268442718" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="49" pc="268442736" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="50" pc="268442757" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="55" pc="268442796" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="60" pc="268442838" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="62" pc="268442855" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="63" pc="268442876" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="64" pc="268442894" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="66" pc="268442900" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="71" pc="268442942" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="75" pc="268443005" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="76" pc="268443017" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="80" pc="268443023" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingDelegate.mc" lineNum="82" pc="268443056" symbol="onKey"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="10" pc="268443060" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="12" pc="268443064" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="13" pc="268443082" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="14" pc="268443112" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="15" pc="268443142" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="19" pc="268443173" symbol="onStart"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="24" pc="268443178" symbol="onStop"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="26" pc="268443182" symbol="onStop"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="27" pc="268443200" symbol="onStop"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="31" pc="268443219" symbol="getInitialView"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="33" pc="268443223" symbol="getInitialView"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="36" pc="268443291" symbol="onSettingsChanged"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\StretchingApp.mc" lineNum="38" pc="268443295" symbol="onSettingsChanged"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="21" pc="268443314" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="23" pc="268443318" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="25" pc="268443331" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="26" pc="268443353" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="30" pc="268443378" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="32" pc="268443382" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="34" pc="268443413" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="36" pc="268443426" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="37" pc="268443463" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="39" pc="268443482" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="41" pc="268443501" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="44" pc="268443583" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="46" pc="268443603" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="47" pc="268443621" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="51" pc="268443645" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="52" pc="268443663" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="54" pc="268443684" symbol="ToggleRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="58" pc="268443700" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="60" pc="268443704" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="62" pc="268443717" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="64" pc="268443721" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="66" pc="268443738" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="68" pc="268443768" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="74" pc="268443927" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="77" pc="268443950" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="84" pc="268444096" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="87" pc="268444143" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="92" pc="268444289" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="95" pc="268444336" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="102" pc="268444495" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="111" pc="268444657" symbol="CreateCustomFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="116" pc="268444679" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="118" pc="268444683" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="119" pc="268444705" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="121" pc="268444718" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="122" pc="268444738" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="123" pc="268444759" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="125" pc="268444780" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="127" pc="268444793" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="128" pc="268444840" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="129" pc="268444861" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="131" pc="268444909" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="133" pc="268444922" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="134" pc="268444969" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="135" pc="268444990" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="138" pc="268445038" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="141" pc="268445051" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="143" pc="268445104" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="146" pc="268445117" symbol="StoreFields"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="150" pc="268445171" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="152" pc="268445175" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="154" pc="268445222" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="156" pc="268445242" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="158" pc="268445263" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="159" pc="268445275" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="160" pc="268445293" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="165" pc="268445317" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="167" pc="268445344" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="169" pc="268445364" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="171" pc="268445385" symbol="SaveRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="176" pc="268445401" symbol="AddLap"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="178" pc="268445405" symbol="AddLap"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="180" pc="268445419" symbol="AddLap"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="181" pc="268445437" symbol="AddLap"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="185" pc="268445462" symbol="AbortRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="187" pc="268445466" symbol="AbortRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="189" pc="268445493" symbol="AbortRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="191" pc="268445513" symbol="AbortRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="193" pc="268445534" symbol="AbortRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="194" pc="268445552" symbol="AbortRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="195" pc="268445561" symbol="AbortRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="199" pc="268445586" symbol="IsRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="201" pc="268445590" symbol="IsRecording"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\Recorder.mc" lineNum="207" pc="268445659" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="16" pc="268445664" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="18" pc="268445668" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="19" pc="268445686" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="21" pc="268445697" symbol="getDrawable"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="23" pc="268445701" symbol="getDrawable"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="28" pc="268445814" symbol="getSize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="30" pc="268445818" symbol="getSize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="32" pc="268445828" symbol="getValue"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="34" pc="268445832" symbol="getValue"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="42" pc="268445836" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="44" pc="268445840" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="45" pc="268445858" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="46" pc="268445868" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="49" pc="268445879" symbol="onResponse"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="51" pc="268445883" symbol="onResponse"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="61" pc="268445909" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="63" pc="268445913" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="64" pc="268445931" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="65" pc="268445941" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="66" pc="268445951" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="69" pc="268445962" symbol="onAccept"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="72" pc="268445966" symbol="onAccept"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="74" pc="268445986" symbol="onAccept"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="79" pc="268446057" symbol="onAccept"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="81" pc="268446143" symbol="onAccept"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="82" pc="268446171" symbol="onAccept"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="84" pc="268446175" symbol="onCancel"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="86" pc="268446179" symbol="onCancel"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="87" pc="268446207" symbol="onCancel"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="93" pc="268446211" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="95" pc="268446215" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="96" pc="268446222" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="98" pc="268446265" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="105" pc="268446479" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="107" pc="268446522" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="108" pc="268446552" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="111" pc="268446611" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="114" pc="268446625" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="116" pc="268446652" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="118" pc="268446668" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="119" pc="268446675" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="120" pc="268446682" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="122" pc="268446693" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="124" pc="268446706" symbol="initialize"/>
+<entry filename="D:\\DevelopingTools\\Projects\\Stretch\\source\\GenericPicker.mc" lineNum="125" pc="268446716" symbol="initialize"/>
+<entry filename="Rez" lineNum="29" pc="268446976" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268446980" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268446998" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268447050" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268447102" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268447154" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268447206" symbol="initialize"/>
+<entry filename="Rez" lineNum="52" pc="268447259" symbol="initialize"/>
+<entry filename="Rez" lineNum="53" pc="268447263" symbol="initialize"/>
+<entry filename="Rez" lineNum="56" pc="268447288" symbol="draw"/>
+<entry filename="Rez" lineNum="57" pc="268447292" symbol="draw"/>
+<entry filename="Rez" lineNum="58" pc="268447299" symbol="draw"/>
+<entry filename="Rez" lineNum="59" pc="268447306" symbol="draw"/>
+<entry filename="Rez" lineNum="60" pc="268447319" symbol="draw"/>
+<entry filename="Rez" lineNum="61" pc="268447332" symbol="draw"/>
+<entry filename="Rez" lineNum="64" pc="268447355" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="65" pc="268447359" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="66" pc="268447395" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="67" pc="268447439" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="69" pc="268447475" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="70" pc="268447511" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="83" pc="268447574" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="85" pc="268447586" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="86" pc="268447622" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="87" pc="268447649" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="89" pc="268447665" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="90" pc="268447766" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="91" pc="268447899" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="92" pc="268448000" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="93" pc="268448101" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="94" pc="268448234" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="95" pc="268448395" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="96" pc="268448528" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="97" pc="268448661" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="98" pc="268448822" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="99" pc="268448955" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="102" pc="268449088" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
-<entry id="47" method="true" symbol="MigrateOldSettings"/>
-<entry id="48" method="true" symbol="AddSupport"/>
-<entry field="true" id="97" symbol="timeStanding"/>
-<entry field="true" id="111" symbol="reputation"/>
-<entry id="8388987" symbol="vibrate"/>
-<entry field="true" id="112" symbol="timeToElapse"/>
-<entry field="true" id="95" symbol="restingField"/>
-<entry field="true" id="53" symbol="Messages"/>
-<entry field="true" id="115" symbol="backlightOn"/>
-<entry id="85" method="true" symbol="setPhoneStatus"/>
+<entry id="48" method="true" symbol="MigrateOldSettings"/>
+<entry id="49" method="true" symbol="AddSupport"/>
+<entry field="true" id="98" symbol="timeStanding"/>
+<entry field="true" id="112" symbol="reputation"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry field="true" id="113" symbol="timeToElapse"/>
+<entry field="true" id="96" symbol="restingField"/>
+<entry field="true" id="54" symbol="Messages"/>
+<entry field="true" id="116" symbol="backlightOn"/>
+<entry id="86" method="true" symbol="setPhoneStatus"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry id="121" method="true" symbol="Notify"/>
+<entry id="122" method="true" symbol="Notify"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="60" symbol="main_label_Rest"/>
-<entry id="123" method="true" symbol="BacklightOff"/>
-<entry id="25" object="true" symbol="GenericPickerDialog"/>
-<entry field="true" id="114" symbol="backlightDuration"/>
-<entry field="true" id="30" symbol="Sound_KEY"/>
+<entry field="true" id="61" symbol="main_label_Rest"/>
+<entry id="124" method="true" symbol="BacklightOff"/>
+<entry id="26" object="true" symbol="GenericPickerDialog"/>
+<entry field="true" id="115" symbol="backlightDuration"/>
+<entry field="true" id="31" symbol="Sound_KEY"/>
 <entry id="8389642" symbol="title"/>
 <entry id="8389629" method="true" symbol="getValue"/>
 <entry id="8389097" method="true" symbol="onKey"/>
-<entry field="true" id="29" symbol="Vibrate_KEY"/>
-<entry id="82" method="true" symbol="UpdateTimer"/>
-<entry field="true" id="20" symbol="GENERIC_PICKER_Time"/>
-<entry field="true" id="33" symbol="Recording_KEY"/>
-<entry id="89" symbol="_mode"/>
-<entry field="true" id="40" method="true" symbol="Light"/>
-<entry field="true" id="107" symbol="running"/>
-<entry field="true" id="8388611" symbol="Toybox"/>
-<entry field="true" id="14" symbol="StretchTimer"/>
-<entry field="true" id="35" symbol="StretchDuration"/>
-<entry field="true" id="68" symbol="TimeInPowerZone"/>
-<entry id="58" object="true" symbol="MainMenu"/>
-<entry id="23" object="true" symbol="MyConfirmationDelegate"/>
-<entry field="true" id="106" symbol="Short"/>
-<entry field="true" id="92" symbol="supportsRecording"/>
-<entry id="11" object="true" symbol="StretchingMenuDelegate"/>
-<entry id="8388770" module="true" symbol="Strings"/>
-<entry field="true" id="76" symbol="menu_label_Light"/>
+<entry field="true" id="30" symbol="Vibrate_KEY"/>
+<entry id="83" method="true" symbol="UpdateTimer"/>
+<entry field="true" id="21" symbol="GENERIC_PICKER_Time"/>
+<entry field="true" id="34" symbol="Recording_KEY"/>
+<entry field="true" id="90" symbol="_mode"/>
+<entry field="true" id="41" method="true" symbol="Light"/>
+<entry field="true" id="108" symbol="running"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="15" symbol="StretchTimer"/>
+<entry field="true" id="36" symbol="StretchDuration"/>
+<entry field="true" id="69" symbol="TimeInPowerZone"/>
+<entry id="59" object="true" symbol="MainMenu"/>
+<entry id="24" object="true" symbol="MyConfirmationDelegate"/>
+<entry field="true" id="107" symbol="Short"/>
+<entry field="true" id="93" symbol="supportsRecording"/>
+<entry id="12" object="true" symbol="StretchingMenuDelegate"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="77" symbol="menu_label_Light"/>
 <entry id="8389342" symbol="hours"/>
-<entry field="true" id="65" symbol="settings_ActivityName"/>
-<entry field="true" id="113" symbol="backlightTimer"/>
-<entry field="true" id="32" symbol="Autostart_KEY"/>
-<entry id="117" method="true" symbol="StretchActive"/>
+<entry field="true" id="66" symbol="settings_ActivityName"/>
+<entry field="true" id="114" symbol="backlightTimer"/>
+<entry field="true" id="33" symbol="Autostart_KEY"/>
+<entry id="118" method="true" symbol="StretchActive"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="8389849" symbol="units"/>
-<entry id="120" method="true" symbol="Tick"/>
-<entry id="125" method="true" symbol="ShowGenericPicker"/>
-<entry id="59" method="true" symbol="MainLayout"/>
-<entry field="true" id="98" symbol="customField"/>
-<entry field="true" id="38" method="true" symbol="Vibrate"/>
-<entry field="true" id="93" symbol="repetitionField"/>
-<entry id="56" object="true" symbol="statusLayout"/>
-<entry id="8388769" module="true" symbol="Rez"/>
-<entry field="true" id="66" symbol="menu_label_Vibrate"/>
-<entry field="true" id="64" symbol="main_label_Stretch"/>
+<entry id="121" method="true" symbol="Tick"/>
+<entry id="126" method="true" symbol="ShowGenericPicker"/>
+<entry id="60" method="true" symbol="MainLayout"/>
+<entry field="true" id="99" symbol="customField"/>
+<entry field="true" id="39" method="true" symbol="Vibrate"/>
+<entry field="true" id="94" symbol="repetitionField"/>
+<entry id="57" object="true" symbol="statusLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="67" symbol="menu_label_Vibrate"/>
+<entry field="true" id="65" symbol="main_label_Stretch"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="57" method="true" symbol="drawComplex"/>
-<entry id="105" method="true" symbol="IsRecording"/>
-<entry id="8388638" symbol="ActivityRecording"/>
-<entry id="116" method="true" symbol="Init"/>
+<entry id="58" method="true" symbol="drawComplex"/>
+<entry id="106" method="true" symbol="IsRecording"/>
+<entry id="8388638" module="true" symbol="ActivityRecording"/>
+<entry id="117" method="true" symbol="Init"/>
 <entry id="8389626" method="true" symbol="onAccept"/>
-<entry id="100" method="true" symbol="CreateCustomFields"/>
-<entry id="90" symbol="_object"/>
-<entry field="true" id="15" symbol="ActivityRecorder"/>
-<entry field="true" id="78" symbol="timer"/>
-<entry id="119" method="true" symbol="ToggleStart"/>
+<entry id="101" method="true" symbol="CreateCustomFields"/>
+<entry field="true" id="91" symbol="_object"/>
+<entry field="true" id="16" symbol="ActivityRecorder"/>
+<entry field="true" id="79" symbol="timer"/>
+<entry id="120" method="true" symbol="ToggleStart"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry id="88" method="true" symbol="onSnsr"/>
-<entry field="true" id="74" symbol="main_label_Activate"/>
-<entry field="true" id="69" symbol="AppName"/>
+<entry id="89" method="true" symbol="onSnsr"/>
+<entry field="true" id="75" symbol="main_label_Activate"/>
+<entry field="true" id="70" symbol="AppName"/>
 <entry id="8389343" symbol="minutes"/>
-<entry id="8389543" symbol="phoneConnected"/>
-<entry field="true" id="26" symbol="Timer_KEY"/>
-<entry field="true" id="81" symbol="notiAvailable"/>
-<entry field="true" id="8388761" symbol="Double"/>
-<entry field="true" id="43" method="true" symbol="Recording"/>
-<entry field="true" id="79" symbol="callbackTime"/>
+<entry field="true" id="8389543" symbol="phoneConnected"/>
+<entry field="true" id="27" symbol="Timer_KEY"/>
+<entry field="true" id="82" symbol="notiAvailable"/>
+<entry field="true" id="8388761" object="true" symbol="Double"/>
+<entry field="true" id="44" method="true" symbol="Recording"/>
+<entry field="true" id="80" symbol="callbackTime"/>
 <entry id="8388890" symbol="sport"/>
-<entry field="true" id="75" symbol="menu_label_Recording"/>
-<entry id="8388892" symbol="name"/>
-<entry field="true" id="39" method="true" symbol="Sound"/>
+<entry field="true" id="76" symbol="menu_label_Recording"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry field="true" id="40" method="true" symbol="Sound"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
-<entry id="83" method="true" symbol="setTimePretty"/>
-<entry id="16" object="true" symbol="StretchingApp"/>
-<entry id="118" method="true" symbol="RestActive"/>
-<entry id="134" symbol="item_8"/>
-<entry id="133" symbol="item_7"/>
-<entry id="132" symbol="item_6"/>
-<entry id="131" symbol="item_5"/>
-<entry id="130" symbol="item_4"/>
-<entry id="129" symbol="item_3"/>
-<entry id="128" symbol="item_2"/>
-<entry id="127" symbol="item_1"/>
-<entry field="true" id="77" symbol="menu_label_Rest"/>
-<entry id="18" object="true" symbol="CustomField"/>
-<entry field="true" id="63" symbol="menu_label_Sound"/>
+<entry id="84" method="true" symbol="setTimePretty"/>
+<entry id="17" object="true" symbol="StretchingApp"/>
+<entry id="119" method="true" symbol="RestActive"/>
+<entry id="135" symbol="item_8"/>
+<entry id="134" symbol="item_7"/>
+<entry id="133" symbol="item_6"/>
+<entry id="132" symbol="item_5"/>
+<entry id="131" symbol="item_4"/>
+<entry id="130" symbol="item_3"/>
+<entry id="129" symbol="item_2"/>
+<entry id="128" symbol="item_1"/>
+<entry field="true" id="78" symbol="menu_label_Rest"/>
+<entry id="19" object="true" symbol="CustomField"/>
+<entry field="true" id="64" symbol="menu_label_Sound"/>
 <entry id="8389108" method="true" symbol="onResponse"/>
-<entry field="true" id="55" symbol="LauncherIcon"/>
-<entry field="true" id="42" method="true" symbol="Autostart"/>
-<entry id="8388646" method="true" symbol="Timer"/>
+<entry field="true" id="56" symbol="LauncherIcon"/>
+<entry field="true" id="43" method="true" symbol="Autostart"/>
+<entry id="8388646" method="true" module="true" object="true" symbol="Timer"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-<entry field="true" id="71" symbol="menu_label_Autostart"/>
-<entry field="true" id="41" symbol="Modified"/>
-<entry id="103" method="true" symbol="AddLap"/>
-<entry id="8388988" symbol="backlight"/>
+<entry field="true" id="72" symbol="menu_label_Autostart"/>
+<entry field="true" id="42" symbol="Modified"/>
+<entry id="104" method="true" symbol="AddLap"/>
+<entry id="8388988" method="true" symbol="backlight"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="73" symbol="menu_label_Rep"/>
-<entry id="8389065" symbol="locY"/>
-<entry id="8389064" symbol="locX"/>
-<entry field="true" id="72" symbol="menu_label_Timer"/>
-<entry id="8388771" module="true" symbol="Drawables"/>
-<entry id="108" symbol="stretchActive"/>
+<entry field="true" id="74" symbol="menu_label_Rep"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="73" symbol="menu_label_Timer"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="109" symbol="stretchActive"/>
 <entry id="8388891" symbol="subSport"/>
-<entry id="22" object="true" symbol="NumberFactory"/>
-<entry id="122" method="true" symbol="BacklightOn"/>
+<entry id="23" object="true" symbol="NumberFactory"/>
+<entry id="123" method="true" symbol="BacklightOn"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry id="102" method="true" symbol="SaveRecording"/>
+<entry id="103" method="true" symbol="SaveRecording"/>
 <entry id="8389936" symbol="nativeNum"/>
-<entry field="true" id="13" symbol="GlobalSetup"/>
-<entry field="true" id="94" symbol="durationField"/>
+<entry field="true" id="14" symbol="GlobalSetup"/>
+<entry field="true" id="95" symbol="durationField"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="51" symbol="Heart"/>
-<entry field="true" id="36" symbol="RestDuration"/>
-<entry id="8388985" symbol="playTone"/>
+<entry field="true" id="52" symbol="Heart"/>
+<entry field="true" id="37" symbol="RestDuration"/>
+<entry id="8388985" method="true" symbol="playTone"/>
 <entry id="8389344" symbol="seconds"/>
-<entry field="true" id="52" symbol="Bluetooth"/>
-<entry id="46" method="true" symbol="StoreSetup"/>
+<entry field="true" id="53" symbol="Bluetooth"/>
+<entry id="47" method="true" symbol="StoreSetup"/>
 <entry id="8389348" symbol="font"/>
-<entry field="true" id="80" symbol="btAvailable"/>
+<entry field="true" id="81" symbol="btAvailable"/>
 <entry id="8389347" symbol="color"/>
-<entry id="126" symbol="_maxSize"/>
-<entry id="9" object="true" symbol="Setup"/>
-<entry field="true" id="54" symbol="bmpRecording"/>
-<entry field="true" id="37" method="true" symbol="Reputation"/>
-<entry field="true" id="62" symbol="setup_label"/>
+<entry field="true" id="127" symbol="_maxSize"/>
+<entry id="10" object="true" symbol="Setup"/>
+<entry field="true" id="55" symbol="bmpRecording"/>
+<entry field="true" id="38" method="true" symbol="Reputation"/>
+<entry field="true" id="63" symbol="setup_label"/>
 <entry field="true" id="8388651" symbol="session"/>
-<entry id="101" method="true" symbol="StoreFields"/>
+<entry id="102" method="true" symbol="StoreFields"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
-<entry id="45" method="true" symbol="LoadSetup"/>
-<entry id="124" method="true" symbol="Rest"/>
-<entry id="84" method="true" symbol="setTime"/>
-<entry field="true" id="28" symbol="Reputation_KEY"/>
-<entry field="true" id="70" symbol="unit_Rep"/>
-<entry field="true" id="44" symbol="ActivityName"/>
-<entry id="91" symbol="_symbol"/>
-<entry field="true" id="96" symbol="timeInPowerZone"/>
-<entry id="50" module="true" symbol="Layouts"/>
-<entry field="true" id="19" symbol="GENERIC_PICKER_Number"/>
-<entry id="24" object="true" symbol="MyPickerDelegate"/>
+<entry id="46" method="true" symbol="LoadSetup"/>
+<entry id="125" method="true" symbol="Rest"/>
+<entry id="85" method="true" symbol="setTime"/>
+<entry field="true" id="29" symbol="Reputation_KEY"/>
+<entry field="true" id="71" symbol="unit_Rep"/>
+<entry field="true" id="45" symbol="ActivityName"/>
+<entry field="true" id="92" symbol="_symbol"/>
+<entry field="true" id="97" symbol="timeInPowerZone"/>
+<entry id="51" module="true" symbol="Layouts"/>
+<entry field="true" id="20" symbol="GENERIC_PICKER_Number"/>
+<entry id="25" object="true" symbol="MyPickerDelegate"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry id="109" symbol="restActive"/>
-<entry field="true" id="21" symbol="GENERIC_PICKER_Bool"/>
-<entry id="17" object="true" symbol="Recorder"/>
+<entry field="true" id="110" symbol="restActive"/>
+<entry field="true" id="22" symbol="GENERIC_PICKER_Bool"/>
+<entry id="18" object="true" symbol="Recorder"/>
 <entry id="8389345" symbol="rezId"/>
-<entry id="8389584" symbol="notificationCount"/>
-<entry id="10" object="true" symbol="StretchingView"/>
-<entry id="8389780" symbol="FitContributor"/>
+<entry field="true" id="8389584" symbol="notificationCount"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="11" object="true" symbol="StretchingView"/>
+<entry id="8389780" module="true" symbol="FitContributor"/>
 <entry id="8389644" symbol="defaults"/>
 <entry id="8389628" method="true" symbol="getDrawable"/>
-<entry id="104" method="true" symbol="AbortRecording"/>
+<entry id="105" method="true" symbol="AbortRecording"/>
 <entry id="8389346" symbol="text"/>
-<entry field="true" id="8388759" symbol="Long"/>
-<entry id="8389063" symbol="identifier"/>
-<entry field="true" id="31" symbol="Light_KEY"/>
-<entry id="49" module="true" symbol="Menus"/>
-<entry id="86" method="true" symbol="setRecordingStatus"/>
-<entry id="99" method="true" symbol="ToggleRecording"/>
-<entry field="true" id="61" symbol="unit_Duration"/>
+<entry field="true" id="8388759" object="true" symbol="Long"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="32" symbol="Light_KEY"/>
+<entry id="50" module="true" symbol="Menus"/>
+<entry id="87" method="true" symbol="setRecordingStatus"/>
+<entry id="100" method="true" symbol="ToggleRecording"/>
+<entry field="true" id="62" symbol="unit_Duration"/>
 <entry id="8389643" symbol="pattern"/>
-<entry id="8" object="true" symbol="StretchingTimer"/>
-<entry field="true" id="67" symbol="TimeStanding"/>
-<entry field="true" id="34" symbol="ActivityName_KEY"/>
-<entry id="110" symbol="lastTick"/>
+<entry id="9" object="true" symbol="StretchingTimer"/>
+<entry field="true" id="68" symbol="TimeStanding"/>
+<entry field="true" id="35" symbol="ActivityName_KEY"/>
+<entry field="true" id="111" symbol="lastTick"/>
 <entry id="8389847" symbol="mesgType"/>
-<entry id="12" object="true" symbol="StretchingDelegate"/>
-<entry id="87" method="true" symbol="onTimer"/>
-<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="13" object="true" symbol="StretchingDelegate"/>
+<entry id="88" method="true" symbol="onTimer"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8389630" method="true" symbol="getSize"/>
-<entry field="true" id="27" symbol="Rest_KEY"/>
+<entry field="true" id="28" symbol="Rest_KEY"/>
 <entry id="8389541" method="true" symbol="onCancel"/>
 </symbolTable>
 <localVars>
+<entry endPc="268435633" name="active" stackId="1" startPc="268435588"/>
+<entry endPc="268435678" name="active" stackId="1" startPc="268435633"/>
 <entry endPc="268436691" name="vibrateData" stackId="4" startPc="268436621"/>
 <entry endPc="268436910" name="vibrateData" stackId="5" startPc="268436752"/>
 <entry endPc="268437261" name="vibrateData" stackId="6" startPc="268436971"/>
 <entry endPc="268437387" name="hasTone" stackId="2" startPc="268436526"/>
 <entry endPc="268437387" name="hasVibrate" stackId="3" startPc="268436526"/>
+<entry endPc="268437388" name="mode" stackId="1" startPc="268436522"/>
 <entry endPc="268437527" name="hasLight" stackId="1" startPc="268437392"/>
 <entry endPc="268438130" name="value" stackId="2" startPc="268437582"/>
 <entry endPc="268438130" name="app" stackId="1" startPc="268437582"/>
 <entry endPc="268438395" name="app" stackId="1" startPc="268438135"/>
 <entry endPc="268439064" name="value" stackId="2" startPc="268438400"/>
+<entry endPc="268439065" name="app" stackId="1" startPc="268438396"/>
+<entry endPc="268439318" name="dc" stackId="1" startPc="268439276"/>
+<entry endPc="268439454" name="dc" stackId="1" startPc="268439379"/>
 <entry endPc="268440060" name="view" stackId="2" startPc="268439458"/>
+<entry endPc="268440061" name="dc" stackId="1" startPc="268439454"/>
 <entry endPc="268440174" name="minutes" stackId="3" startPc="268440065"/>
 <entry endPc="268440174" name="seconds" stackId="4" startPc="268440065"/>
+<entry endPc="268440175" name="view" stackId="1" startPc="268440061"/>
+<entry endPc="268440175" name="duration" stackId="2" startPc="268440061"/>
 <entry endPc="268440371" name="view" stackId="4" startPc="268440179"/>
 <entry endPc="268440371" name="hour" stackId="2" startPc="268440179"/>
 <entry endPc="268440371" name="min" stackId="3" startPc="268440179"/>
@@ -750,274 +761,306 @@
 <entry endPc="268441034" name="view" stackId="1" startPc="268440909"/>
 <entry endPc="268441371" name="view" stackId="2" startPc="268441155"/>
 <entry endPc="268441371" name="HR" stackId="3" startPc="268441155"/>
+<entry endPc="268441372" name="sensor_info" stackId="1" startPc="268441151"/>
 <entry endPc="268441552" name="handler" stackId="4" startPc="268441525"/>
 <entry endPc="268441571" name="symbol" stackId="3" startPc="268441399"/>
 <entry endPc="268441571" name="functions" stackId="2" startPc="268441399"/>
+<entry endPc="268441572" name="item" stackId="1" startPc="268441395"/>
 <entry endPc="268442327" name="gpd" stackId="5" startPc="268442295"/>
-<entry endPc="268442508" name="menu" stackId="1" startPc="268442355"/>
-<entry endPc="268443037" name="key" stackId="2" startPc="268442683"/>
-<entry endPc="268443558" name="str" stackId="1" startPc="268443404"/>
-<entry endPc="268445148" name="completedReps" stackId="1" startPc="268444661"/>
-<entry endPc="268446586" name="cd" stackId="6" startPc="268446500"/>
-<entry endPc="268446950" name="value2" stackId="8" startPc="268446603"/>
-<entry endPc="268446950" name="value1" stackId="7" startPc="268446603"/>
-<entry endPc="268446953" name="value" stackId="5" startPc="268446193"/>
-<entry endPc="268447332" name="pWidth" stackId="4" startPc="268447270"/>
-<entry endPc="268447332" name="pY" stackId="3" startPc="268447270"/>
-<entry endPc="268447332" name="pX" stackId="2" startPc="268447270"/>
-<entry endPc="268447332" name="pHeight" stackId="5" startPc="268447270"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_lblTypeActive" stackId="8" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_MessageCounter" stackId="7" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_lblTypeNext" stackId="11" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_Bluetooth" stackId="5" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_heartrate" stackId="4" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_lblNext" stackId="12" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_lblElapse" stackId="10" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_Messages" stackId="6" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_custom_drawable_statusLayout" stackId="2" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_lblRep" stackId="13" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_Heart" stackId="3" startPc="268447556"/>
-<entry endPc="268449185" name="rez_cmp_local_bitmap_time" stackId="9" startPc="268447556"/>
+<entry endPc="268442328" name="object" stackId="3" startPc="268442291"/>
+<entry endPc="268442328" name="type" stackId="1" startPc="268442291"/>
+<entry endPc="268442328" name="symbol" stackId="4" startPc="268442291"/>
+<entry endPc="268442328" name="title" stackId="2" startPc="268442291"/>
+<entry endPc="268442530" name="menu" stackId="1" startPc="268442355"/>
+<entry endPc="268442701" name="menu" stackId="1" startPc="268442531"/>
+<entry endPc="268443059" name="key" stackId="2" startPc="268442705"/>
+<entry endPc="268443060" name="evt" stackId="1" startPc="268442701"/>
+<entry endPc="268443178" name="state" stackId="1" startPc="268443173"/>
+<entry endPc="268443219" name="state" stackId="1" startPc="268443178"/>
+<entry endPc="268443580" name="str" stackId="1" startPc="268443426"/>
+<entry endPc="268445170" name="completedReps" stackId="1" startPc="268444683"/>
+<entry endPc="268445697" name="maxSize" stackId="1" startPc="268445664"/>
+<entry endPc="268445814" name="isSelected" stackId="2" startPc="268445697"/>
+<entry endPc="268445814" name="item" stackId="1" startPc="268445697"/>
+<entry endPc="268445836" name="item" stackId="1" startPc="268445828"/>
+<entry endPc="268445879" name="object" stackId="1" startPc="268445836"/>
+<entry endPc="268445879" name="symbol" stackId="2" startPc="268445836"/>
+<entry endPc="268445909" name="value" stackId="1" startPc="268445879"/>
+<entry endPc="268445962" name="object" stackId="2" startPc="268445909"/>
+<entry endPc="268445962" name="symbol" stackId="3" startPc="268445909"/>
+<entry endPc="268445962" name="mode" stackId="1" startPc="268445909"/>
+<entry endPc="268446175" name="values" stackId="1" startPc="268445962"/>
+<entry endPc="268446608" name="cd" stackId="6" startPc="268446522"/>
+<entry endPc="268446972" name="value2" stackId="8" startPc="268446625"/>
+<entry endPc="268446972" name="value1" stackId="7" startPc="268446625"/>
+<entry endPc="268446975" name="value" stackId="5" startPc="268446215"/>
+<entry endPc="268446976" name="object" stackId="3" startPc="268446211"/>
+<entry endPc="268446976" name="symbol" stackId="4" startPc="268446211"/>
+<entry endPc="268446976" name="title" stackId="2" startPc="268446211"/>
+<entry endPc="268446976" name="mode" stackId="1" startPc="268446211"/>
+<entry endPc="268447354" name="pWidth" stackId="4" startPc="268447292"/>
+<entry endPc="268447354" name="pY" stackId="3" startPc="268447292"/>
+<entry endPc="268447354" name="pX" stackId="2" startPc="268447292"/>
+<entry endPc="268447354" name="pHeight" stackId="5" startPc="268447292"/>
+<entry endPc="268447355" name="dc" stackId="1" startPc="268447288"/>
+<entry endPc="268447574" name="pWidth" stackId="4" startPc="268447355"/>
+<entry endPc="268447574" name="dc" stackId="1" startPc="268447355"/>
+<entry endPc="268447574" name="pY" stackId="3" startPc="268447355"/>
+<entry endPc="268447574" name="pX" stackId="2" startPc="268447355"/>
+<entry endPc="268447574" name="pHeight" stackId="5" startPc="268447355"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_lblTypeActive" stackId="8" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_MessageCounter" stackId="7" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_lblTypeNext" stackId="11" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_Bluetooth" stackId="5" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_heartrate" stackId="4" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_lblNext" stackId="12" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_lblElapse" stackId="10" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_Messages" stackId="6" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_custom_drawable_statusLayout" stackId="2" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_lblRep" stackId="13" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_Heart" stackId="3" startPc="268447586"/>
+<entry endPc="268449215" name="rez_cmp_local_bitmap_time" stackId="9" startPc="268447586"/>
+<entry endPc="268449216" name="dc" stackId="1" startPc="268447574"/>
 </localVars>
 <annotations/>
 <functions>
-<functionEntry name="initialize" parent="StretchingTimer">
+<functionEntry accessMode="public" name="initialize" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry name="Init" parent="StretchingTimer">
+<functionEntry accessMode="public" name="Init" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry name="StretchActive" parent="StretchingTimer">
+<functionEntry accessMode="public" name="StretchActive" parent="StretchingTimer">
 <param id="active"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="RestActive" parent="StretchingTimer">
+<functionEntry accessMode="public" name="RestActive" parent="StretchingTimer">
 <param id="active"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="ToggleStart" parent="StretchingTimer">
+<functionEntry accessMode="public" name="ToggleStart" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry name="Tick" parent="StretchingTimer">
+<functionEntry accessMode="public" name="Tick" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry name="Notify" parent="StretchingTimer">
+<functionEntry accessMode="public" name="Notify" parent="StretchingTimer">
 <param id="mode"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="BacklightOn" parent="StretchingTimer">
+<functionEntry accessMode="public" name="BacklightOn" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry name="BacklightOff" parent="StretchingTimer">
+<functionEntry accessMode="public" name="BacklightOff" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="Setup">
+<functionEntry accessMode="public" name="initialize" parent="Setup">
 <documentation/>
 </functionEntry>
-<functionEntry name="LoadSetup" parent="Setup">
+<functionEntry accessMode="public" name="LoadSetup" parent="Setup">
 <documentation/>
 </functionEntry>
-<functionEntry name="StoreSetup" parent="Setup">
+<functionEntry accessMode="public" name="StoreSetup" parent="Setup">
 <documentation/>
 </functionEntry>
-<functionEntry name="MigrateOldSettings" parent="Setup">
+<functionEntry accessMode="public" name="MigrateOldSettings" parent="Setup">
 <param id="app"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="StretchingView">
+<functionEntry accessMode="public" name="initialize" parent="StretchingView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onLayout" parent="StretchingView">
+<functionEntry accessMode="public" name="onLayout" parent="StretchingView">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="onShow" parent="StretchingView">
+<functionEntry accessMode="public" name="onShow" parent="StretchingView">
 <documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="onUpdate" parent="StretchingView">
+<functionEntry accessMode="public" name="onUpdate" parent="StretchingView">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="UpdateTimer" parent="StretchingView">
+<functionEntry accessMode="public" name="UpdateTimer" parent="StretchingView">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="setTimePretty" parent="StretchingView">
+<functionEntry accessMode="public" name="setTimePretty" parent="StretchingView">
 <param id="view"/>
 <param id="duration"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="setTime" parent="StretchingView">
+<functionEntry accessMode="public" name="setTime" parent="StretchingView">
 <documentation/>
 </functionEntry>
-<functionEntry name="setPhoneStatus" parent="StretchingView">
+<functionEntry accessMode="public" name="setPhoneStatus" parent="StretchingView">
 <documentation/>
 </functionEntry>
-<functionEntry name="setRecordingStatus" parent="StretchingView">
+<functionEntry accessMode="public" name="setRecordingStatus" parent="StretchingView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onHide" parent="StretchingView">
+<functionEntry accessMode="public" name="onHide" parent="StretchingView">
 <documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="onTimer" parent="StretchingView">
+<functionEntry accessMode="public" name="onTimer" parent="StretchingView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onSnsr" parent="StretchingView">
+<functionEntry accessMode="public" name="onSnsr" parent="StretchingView">
 <param id="sensor_info"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="initialize" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="onMenuItem" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="onMenuItem" parent="StretchingMenuDelegate">
 <param id="item"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="Timer" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Timer" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="Rest" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Rest" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="Reputation" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Reputation" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="Vibrate" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Vibrate" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="Sound" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Sound" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="Light" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Light" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="Autostart" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Autostart" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="Recording" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Recording" parent="StretchingMenuDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="ShowGenericPicker" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="ShowGenericPicker" parent="StretchingMenuDelegate">
 <param id="type"/>
 <param id="title"/>
 <param id="object"/>
 <param id="symbol"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="StretchingDelegate">
+<functionEntry accessMode="public" name="initialize" parent="StretchingDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="onMenu" parent="StretchingDelegate">
+<functionEntry accessMode="public" name="onMenu" parent="StretchingDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="AddSupport" parent="StretchingDelegate">
+<functionEntry accessMode="public" name="AddSupport" parent="StretchingDelegate">
 <param id="menu"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onKey" parent="StretchingDelegate">
+<functionEntry accessMode="public" name="onKey" parent="StretchingDelegate">
 <param id="evt"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="StretchingApp">
+<functionEntry accessMode="public" name="initialize" parent="StretchingApp">
 <documentation/>
 </functionEntry>
-<functionEntry name="onStart" parent="StretchingApp">
+<functionEntry accessMode="public" name="onStart" parent="StretchingApp">
 <param id="state"/>
 <documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="onStop" parent="StretchingApp">
+<functionEntry accessMode="public" name="onStop" parent="StretchingApp">
 <param id="state"/>
 <documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="getInitialView" parent="StretchingApp">
+<functionEntry accessMode="public" name="getInitialView" parent="StretchingApp">
 <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="onSettingsChanged" parent="StretchingApp">
+<functionEntry accessMode="public" name="onSettingsChanged" parent="StretchingApp">
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="Recorder">
+<functionEntry accessMode="public" name="initialize" parent="Recorder">
 <documentation/>
 </functionEntry>
-<functionEntry name="ToggleRecording" parent="Recorder">
+<functionEntry accessMode="public" name="ToggleRecording" parent="Recorder">
 <documentation/>
 </functionEntry>
-<functionEntry name="CreateCustomFields" parent="Recorder">
+<functionEntry accessMode="public" name="CreateCustomFields" parent="Recorder">
 <documentation/>
 </functionEntry>
-<functionEntry name="StoreFields" parent="Recorder">
+<functionEntry accessMode="public" name="StoreFields" parent="Recorder">
 <documentation/>
 </functionEntry>
-<functionEntry name="SaveRecording" parent="Recorder">
+<functionEntry accessMode="public" name="SaveRecording" parent="Recorder">
 <documentation/>
 </functionEntry>
-<functionEntry name="AddLap" parent="Recorder">
+<functionEntry accessMode="public" name="AddLap" parent="Recorder">
 <documentation/>
 </functionEntry>
-<functionEntry name="AbortRecording" parent="Recorder">
+<functionEntry accessMode="public" name="AbortRecording" parent="Recorder">
 <documentation/>
 </functionEntry>
-<functionEntry name="IsRecording" parent="Recorder">
+<functionEntry accessMode="public" name="IsRecording" parent="Recorder">
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="CustomField">
+<functionEntry accessMode="public" name="initialize" parent="CustomField">
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="NumberFactory">
+<functionEntry accessMode="public" name="initialize" parent="NumberFactory">
 <param id="maxSize"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="getDrawable" parent="NumberFactory">
+<functionEntry accessMode="public" name="getDrawable" parent="NumberFactory">
 <param id="item"/>
 <param id="isSelected"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="getSize" parent="NumberFactory">
+<functionEntry accessMode="public" name="getSize" parent="NumberFactory">
 <documentation/>
 </functionEntry>
-<functionEntry name="getValue" parent="NumberFactory">
+<functionEntry accessMode="public" name="getValue" parent="NumberFactory">
 <param id="item"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="MyConfirmationDelegate">
+<functionEntry accessMode="public" name="initialize" parent="MyConfirmationDelegate">
 <param id="object"/>
 <param id="symbol"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onResponse" parent="MyConfirmationDelegate">
+<functionEntry accessMode="public" name="onResponse" parent="MyConfirmationDelegate">
 <param id="value"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="MyPickerDelegate">
+<functionEntry accessMode="public" name="initialize" parent="MyPickerDelegate">
 <param id="mode"/>
 <param id="object"/>
 <param id="symbol"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onAccept" parent="MyPickerDelegate">
+<functionEntry accessMode="public" name="onAccept" parent="MyPickerDelegate">
 <param id="values"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onCancel" parent="MyPickerDelegate">
+<functionEntry accessMode="public" name="onCancel" parent="MyPickerDelegate">
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="GenericPickerDialog">
+<functionEntry accessMode="public" name="initialize" parent="GenericPickerDialog">
 <param id="mode"/>
 <param id="title"/>
 <param id="object"/>
 <param id="symbol"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="MainMenu">
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="statusLayout">
+<functionEntry accessMode="public" name="initialize" parent="statusLayout">
 <documentation/>
 </functionEntry>
-<functionEntry name="draw" parent="statusLayout">
+<functionEntry accessMode="public" name="draw" parent="statusLayout">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="drawComplex" parent="statusLayout">
+<functionEntry accessMode="public" name="drawComplex" parent="statusLayout">
 <param id="dc"/>
 <param id="pX"/>
 <param id="pY"/>
@@ -1025,9 +1068,33 @@
 <param id="pHeight"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="MainLayout" parent="Layouts">
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
 </functionEntry>
 </functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="342" parentId="globals" symbolId="Setup" type="class"/>
+<dataEntry offset="565" parentId="globals" symbolId="StretchingApp" type="class"/>
+<dataEntry offset="644" parentId="globals" symbolId="StretchingDelegate" type="class"/>
+<dataEntry offset="715" parentId="globals" symbolId="GenericPickerDialog" type="class"/>
+<dataEntry offset="762" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="841" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="920" parentId="Drawables" symbolId="statusLayout" type="class"/>
+<dataEntry offset="983" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1022" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="1069" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1100" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1131" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1170" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1345" parentId="globals" symbolId="StretchingView" type="class"/>
+<dataEntry offset="1512" parentId="globals" symbolId="CustomField" type="class"/>
+<dataEntry offset="1559" parentId="globals" symbolId="MyPickerDelegate" type="class"/>
+<dataEntry offset="1646" parentId="globals" symbolId="MyConfirmationDelegate" type="class"/>
+<dataEntry offset="1717" parentId="globals" symbolId="Recorder" type="class"/>
+<dataEntry offset="1884" parentId="globals" symbolId="StretchingTimer" type="class"/>
+<dataEntry offset="2091" parentId="globals" symbolId="StretchingMenuDelegate" type="class"/>
+<dataEntry offset="2218" parentId="globals" symbolId="NumberFactory" type="class"/>
+</dataEntryOffsetMappings>
 </debugInfo>
