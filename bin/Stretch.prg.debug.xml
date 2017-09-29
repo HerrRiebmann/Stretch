@@ -527,21 +527,22 @@
 <entry filename="Rez" lineNum="69" pc="268447475" symbol="drawComplex"/>
 <entry filename="Rez" lineNum="70" pc="268447511" symbol="drawComplex"/>
 <entry filename="Rez" lineNum="83" pc="268447574" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="85" pc="268447586" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="86" pc="268447622" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="87" pc="268447649" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="89" pc="268447665" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="90" pc="268447766" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="91" pc="268447899" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="92" pc="268448000" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="93" pc="268448101" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="94" pc="268448234" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="95" pc="268448395" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="96" pc="268448528" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="97" pc="268448661" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="98" pc="268448822" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="99" pc="268448955" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="87" pc="268447586" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="88" pc="268447622" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="89" pc="268447649" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="91" pc="268447665" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="92" pc="268447766" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="93" pc="268447899" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="94" pc="268448000" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="95" pc="268448101" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="96" pc="268448234" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="97" pc="268448395" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="98" pc="268448528" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="99" pc="268448661" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="100" pc="268448822" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="101" pc="268448955" symbol="MainLayout"/>
 <entry filename="Rez" lineNum="102" pc="268449088" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="105" pc="268449189" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="48" method="true" symbol="MigrateOldSettings"/>
@@ -808,19 +809,20 @@
 <entry endPc="268447574" name="pY" stackId="3" startPc="268447355"/>
 <entry endPc="268447574" name="pX" stackId="2" startPc="268447355"/>
 <entry endPc="268447574" name="pHeight" stackId="5" startPc="268447355"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_lblTypeActive" stackId="8" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_MessageCounter" stackId="7" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_lblTypeNext" stackId="11" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_Bluetooth" stackId="5" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_heartrate" stackId="4" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_lblNext" stackId="12" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_lblElapse" stackId="10" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_Messages" stackId="6" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_custom_drawable_statusLayout" stackId="2" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_lblRep" stackId="13" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_Heart" stackId="3" startPc="268447586"/>
-<entry endPc="268449215" name="rez_cmp_local_bitmap_time" stackId="9" startPc="268447586"/>
-<entry endPc="268449216" name="dc" stackId="1" startPc="268447574"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_lblTypeActive" stackId="8" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_MessageCounter" stackId="7" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_lblTypeNext" stackId="11" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_Bluetooth" stackId="5" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_heartrate" stackId="4" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_lblNext" stackId="12" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_lblElapse" stackId="10" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_Messages" stackId="6" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_custom_drawable_statusLayout" stackId="2" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_lblRep" stackId="13" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_Heart" stackId="3" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_time" stackId="9" startPc="268447586"/>
+<entry endPc="268449326" name="rez_cmp_local_bitmap_bmpRecording" stackId="14" startPc="268447586"/>
+<entry endPc="268449327" name="dc" stackId="1" startPc="268447574"/>
 </localVars>
 <annotations/>
 <functions>
