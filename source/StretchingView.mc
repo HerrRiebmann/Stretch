@@ -231,13 +231,15 @@ class StretchingView extends Ui.View
     //! state of this View here. This includes freeing resources from
     //! memory.
     function onHide()
-    {
+    {    
+    	/*
     	if(StretchTimer.running)
         {        	        	
 			StretchTimer.running = false;
 			ActivityRecorder.ToggleRecording();
         }   
-        timer.stop();        
+        timer.stop();
+        */        
     }
     
     function onTimer()

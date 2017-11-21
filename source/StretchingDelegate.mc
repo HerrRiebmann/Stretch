@@ -48,6 +48,7 @@ class StretchingDelegate extends Ui.BehaviorDelegate
 	    {
 	    	Sys.println("Start/Stop Activity");
 	    	StretchTimer.ToggleStart();
+	    	return true;
 	    }
 	    //Light/Power
 	    else if(key == Ui.KEY_POWER)
@@ -78,7 +79,23 @@ class StretchingDelegate extends Ui.BehaviorDelegate
     	else
     	{
     		Sys.println("Key" + key.toString());
-		}
+		}		
 		return false;
+    }
+    
+    function onSwipe(swipeEvent) 
+    {
+    	//ToDo: Multiple timer
+    	var dir = swipeEvent.getDirection();
+    	System.println("Swipe: " + dir);
+    	if(dir == Ui.SWIPE_DOWN)
+    	{
+    		return true;
+    	}
+    	if(dir == Ui.SWIPE_UP)
+    	{
+    		return true;
+    	}
+    	return false;        
     }
 }
