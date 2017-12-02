@@ -1,0 +1,22 @@
+<strings>
+    <string id="AppName">Stretch</string>   
+    <string id="menu_label_Timer">Tempo di allungamento</string>
+    <string id="menu_label_Rest">Tempo di transizione</string>
+    <string id="menu_label_Rep">Ripetizione</string>
+    <string id="menu_label_Vibrate">Vibrazione</string>
+    <string id="menu_label_Sound">Suono</string>
+    <string id="menu_label_Light">Retroilluminazione</string>
+    <string id="menu_label_Autostart">Autoavvio</string>
+    <string id="main_label_Stretch">Stretch</string>
+    <string id="main_label_Rest">Cambio</string>
+    <string id="main_label_Activate"> attiva</string>
+    <string id="menu_label_Recording">Registrando</string>
+    <string id="unit_Duration">s</string>
+    <string id="unit_Rep">rip</string>
+    <string id="setup_label">Impostazioni</string>
+    <string id="settings_ActivityName">Nome dell'attività</string>
+    <!-- S/Stock Fields -->
+    <string id="TimeInPowerZone">Time in powerzone</string>
+    <string id="TimeStanding">Time standing</string>
+    <!-- E/Stock Fields -->
+</strings>
