@@ -33,6 +33,7 @@ Also your current heartrate is displayed, when the strap is connected.
 ### Languages:
 - German
 - English
+- Italian
 - Swedish
 - Spanish
 
