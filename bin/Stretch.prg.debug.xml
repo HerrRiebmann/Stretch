@@ -1,552 +1,560 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="23" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="25" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="26" pc="268435472" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="29" pc="268435509" symbol="Init"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="31" pc="268435513" symbol="Init"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="32" pc="268435523" symbol="Init"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="33" pc="268435533" symbol="Init"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="34" pc="268435543" symbol="Init"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="35" pc="268435556" symbol="Init"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="44" pc="268435588" symbol="StretchActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="46" pc="268435592" symbol="StretchActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="48" pc="268435599" symbol="StretchActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="49" pc="268435609" symbol="StretchActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="51" pc="268435623" symbol="StretchActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="54" pc="268435633" symbol="RestActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="56" pc="268435637" symbol="RestActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="58" pc="268435644" symbol="RestActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="59" pc="268435655" symbol="RestActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="61" pc="268435668" symbol="RestActive"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="64" pc="268435678" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="66" pc="268435682" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="67" pc="268435702" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="69" pc="268435714" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="71" pc="268435731" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="73" pc="268435742" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="75" pc="268435776" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="77" pc="268435787" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="80" pc="268435824" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="84" pc="268435837" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="86" pc="268435847" symbol="ToggleStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="90" pc="268435866" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="92" pc="268435870" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="94" pc="268435882" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="96" pc="268435899" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="97" pc="268435915" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="99" pc="268435926" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="103" pc="268435960" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="106" pc="268435994" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="119" pc="268435998" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="121" pc="268436017" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="124" pc="268436034" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="126" pc="268436045" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="127" pc="268436064" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="129" pc="268436096" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="131" pc="268436131" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="133" pc="268436146" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="137" pc="268436166" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="139" pc="268436171" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="146" pc="268436198" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="148" pc="268436233" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="150" pc="268436248" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="152" pc="268436268" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="153" pc="268436289" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="155" pc="268436300" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="157" pc="268436334" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="159" pc="268436345" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="162" pc="268436382" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="164" pc="268436405" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="167" pc="268436431" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="168" pc="268436443" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="169" pc="268436463" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="170" pc="268436483" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="171" pc="268436503" symbol="Tick"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="176" pc="268436522" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="178" pc="268436526" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="179" pc="268436540" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="181" pc="268436545" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="183" pc="268436564" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="184" pc="268436578" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="186" pc="268436583" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="189" pc="268436602" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="191" pc="268436616" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="193" pc="268436621" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="194" pc="268436673" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="196" pc="268436694" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="198" pc="268436699" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="201" pc="268436733" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="203" pc="268436747" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="205" pc="268436752" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="208" pc="268436892" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="210" pc="268436913" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="212" pc="268436918" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="215" pc="268436952" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="217" pc="268436966" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="219" pc="268436971" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="225" pc="268437243" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="227" pc="268437264" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="229" pc="268437269" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="230" pc="268437297" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="231" pc="268437325" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="232" pc="268437353" symbol="Notify"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="237" pc="268437388" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="239" pc="268437392" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="241" pc="268437403" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="243" pc="268437407" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="244" pc="268437421" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="246" pc="268437438" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="248" pc="268437443" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="249" pc="268437461" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="250" pc="268437471" symbol="BacklightOn"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="255" pc="268437528" symbol="BacklightOff"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="257" pc="268437532" symbol="BacklightOff"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\StretchingTimer.mc" lineNum="258" pc="268437550" symbol="BacklightOff"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="32" pc="268437561" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="34" pc="268437565" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="37" pc="268437578" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="39" pc="268437582" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="40" pc="268437603" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="44" pc="268437620" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="45" pc="268437641" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="47" pc="268437648" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="49" pc="268437665" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="50" pc="268437683" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="52" pc="268437690" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="54" pc="268437732" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="55" pc="268437750" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="57" pc="268437757" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="59" pc="268437799" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="60" pc="268437817" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="62" pc="268437824" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="64" pc="268437837" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="65" pc="268437855" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="67" pc="268437862" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="69" pc="268437875" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="70" pc="268437893" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="72" pc="268437900" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="74" pc="268437913" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="75" pc="268437931" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="77" pc="268437938" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="79" pc="268437951" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="80" pc="268437969" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="82" pc="268437976" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="84" pc="268437989" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="85" pc="268438007" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="87" pc="268438014" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="89" pc="268438027" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="90" pc="268438045" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="92" pc="268438066" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="96" pc="268438079" symbol="LoadSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="100" pc="268438131" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="102" pc="268438135" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="103" pc="268438152" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="104" pc="268438186" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="105" pc="268438220" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="106" pc="268438245" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="107" pc="268438270" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="108" pc="268438295" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="109" pc="268438320" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="110" pc="268438345" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="111" pc="268438370" symbol="StoreSetup"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="114" pc="268438396" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="116" pc="268438400" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="117" pc="268438421" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="119" pc="268438428" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="121" pc="268438470" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="122" pc="268438491" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="124" pc="268438498" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="126" pc="268438540" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="127" pc="268438561" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="129" pc="268438568" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="131" pc="268438581" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="132" pc="268438602" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="134" pc="268438609" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="136" pc="268438622" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="137" pc="268438643" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="139" pc="268438650" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="141" pc="268438663" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="142" pc="268438684" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="144" pc="268438691" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="146" pc="268438704" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="147" pc="268438725" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="149" pc="268438732" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="151" pc="268438745" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="152" pc="268438766" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="154" pc="268438773" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="156" pc="268438786" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="157" pc="268438807" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="159" pc="268438814" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="161" pc="268438827" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="162" pc="268438839" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="163" pc="268438859" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="164" pc="268438879" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="165" pc="268438899" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="166" pc="268438919" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="167" pc="268438939" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="168" pc="268438959" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="169" pc="268438979" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="170" pc="268438999" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="171" pc="268439019" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="172" pc="268439031" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\data\\Setup.mc" lineNum="173" pc="268439043" symbol="MigrateOldSettings"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="20" pc="268439065" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="22" pc="268439069" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="23" pc="268439087" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="24" pc="268439099" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="26" pc="268439135" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="27" pc="268439177" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="28" pc="268439209" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="29" pc="268439237" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="31" pc="268439254" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="36" pc="268439276" symbol="onLayout"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="38" pc="268439280" symbol="onLayout"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="44" pc="268439318" symbol="onShow"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="47" pc="268439322" symbol="onShow"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="48" pc="268439334" symbol="onShow"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="52" pc="268439379" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="55" pc="268439383" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="56" pc="268439403" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="57" pc="268439415" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="58" pc="268439427" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="59" pc="268439439" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="62" pc="268439454" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="64" pc="268439458" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="65" pc="268439482" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="66" pc="268439510" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="68" pc="268439531" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="72" pc="268439558" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="74" pc="268439582" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="75" pc="268439606" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="77" pc="268439629" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="81" pc="268439679" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="83" pc="268439714" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="84" pc="268439738" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="86" pc="268439759" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="87" pc="268439791" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="88" pc="268439815" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="89" pc="268439847" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="90" pc="268439871" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="94" pc="268439911" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="95" pc="268439943" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="96" pc="268439967" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="97" pc="268439999" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="98" pc="268440023" symbol="UpdateTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="102" pc="268440061" symbol="setTimePretty"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="104" pc="268440065" symbol="setTimePretty"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="105" pc="268440075" symbol="setTimePretty"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="106" pc="268440085" symbol="setTimePretty"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="108" pc="268440096" symbol="setTimePretty"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="110" pc="268440118" symbol="setTimePretty"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="112" pc="268440129" symbol="setTimePretty"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="114" pc="268440151" symbol="setTimePretty"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="117" pc="268440175" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="119" pc="268440179" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="120" pc="268440196" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="121" pc="268440196" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="123" pc="268440196" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="125" pc="268440213" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="129" pc="268440241" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="131" pc="268440260" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="133" pc="268440277" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="137" pc="268440305" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="139" pc="268440324" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="140" pc="268440348" symbol="setTime"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="143" pc="268440372" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="145" pc="268440376" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="146" pc="268440379" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="148" pc="268440392" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="149" pc="268440409" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="152" pc="268440428" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="154" pc="268440441" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="156" pc="268440448" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="158" pc="268440468" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="160" pc="268440487" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="162" pc="268440498" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="164" pc="268440505" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="166" pc="268440525" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="167" pc="268440549" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="169" pc="268440560" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="171" pc="268440577" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="176" pc="268440602" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="178" pc="268440619" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="183" pc="268440644" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="185" pc="268440655" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="187" pc="268440662" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="189" pc="268440682" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="190" pc="268440706" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="192" pc="268440723" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="194" pc="268440740" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="196" pc="268440762" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="197" pc="268440786" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="201" pc="268440818" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="203" pc="268440835" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="205" pc="268440857" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="206" pc="268440881" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="209" pc="268440901" symbol="setPhoneStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="212" pc="268440905" symbol="setRecordingStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="214" pc="268440909" symbol="setRecordingStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="215" pc="268440933" symbol="setRecordingStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="217" pc="268440953" symbol="setRecordingStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="219" pc="268440970" symbol="setRecordingStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="223" pc="268440995" symbol="setRecordingStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="225" pc="268441012" symbol="setRecordingStatus"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="233" pc="268441035" symbol="onHide"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="245" pc="268441040" symbol="onTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="247" pc="268441044" symbol="onTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="249" pc="268441062" symbol="onTimer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="252" pc="268441079" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="254" pc="268441083" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="255" pc="268441107" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="256" pc="268441117" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="258" pc="268441130" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="259" pc="268441153" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="260" pc="268441177" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="262" pc="268441194" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="267" pc="268441219" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="268" pc="268441236" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="269" pc="268441260" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingView.mc" lineNum="271" pc="268441277" symbol="onSnsr"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="7" pc="268441300" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="9" pc="268441304" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="12" pc="268441323" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="14" pc="268441327" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="25" pc="268441439" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="26" pc="268441446" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="28" pc="268441453" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="29" pc="268441468" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="31" pc="268441483" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="34" pc="268441500" symbol="Timer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="36" pc="268441504" symbol="Timer"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="39" pc="268441558" symbol="Rest"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="41" pc="268441562" symbol="Rest"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="44" pc="268441616" symbol="Reputation"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="46" pc="268441620" symbol="Reputation"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="49" pc="268441674" symbol="Vibrate"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="51" pc="268441678" symbol="Vibrate"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="54" pc="268441783" symbol="Sound"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="56" pc="268441787" symbol="Sound"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="59" pc="268441892" symbol="Light"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="61" pc="268441896" symbol="Light"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="64" pc="268442001" symbol="Autostart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="66" pc="268442005" symbol="Autostart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="69" pc="268442110" symbol="Recording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="71" pc="268442114" symbol="Recording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="74" pc="268442219" symbol="ShowGenericPicker"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingMenuDelegate.mc" lineNum="76" pc="268442223" symbol="ShowGenericPicker"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="7" pc="268442256" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="9" pc="268442260" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="12" pc="268442279" symbol="onMenu"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="14" pc="268442283" symbol="onMenu"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="16" pc="268442300" symbol="onMenu"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="18" pc="268442321" symbol="onMenu"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="19" pc="268442357" symbol="onMenu"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="20" pc="268442389" symbol="onMenu"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="21" pc="268442403" symbol="onMenu"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="22" pc="268442455" symbol="onMenu"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="25" pc="268442459" symbol="AddSupport"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="27" pc="268442463" symbol="AddSupport"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="29" pc="268442478" symbol="AddSupport"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="32" pc="268442518" symbol="AddSupport"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="34" pc="268442533" symbol="AddSupport"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="37" pc="268442573" symbol="AddSupport"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="39" pc="268442588" symbol="AddSupport"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="43" pc="268442629" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="45" pc="268442633" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="47" pc="268442646" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="49" pc="268442664" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="50" pc="268442685" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="51" pc="268442703" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="56" pc="268442727" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="61" pc="268442769" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="63" pc="268442786" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="64" pc="268442807" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="65" pc="268442825" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="67" pc="268442831" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="72" pc="268442873" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="76" pc="268442936" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="77" pc="268442948" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="81" pc="268442954" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="83" pc="268442987" symbol="onKey"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="86" pc="268442991" symbol="onSwipe"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="89" pc="268442995" symbol="onSwipe"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="90" pc="268443008" symbol="onSwipe"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="91" pc="268443034" symbol="onSwipe"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="93" pc="268443052" symbol="onSwipe"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="95" pc="268443058" symbol="onSwipe"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="97" pc="268443076" symbol="onSwipe"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingDelegate.mc" lineNum="99" pc="268443082" symbol="onSwipe"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="10" pc="268443086" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="12" pc="268443090" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="13" pc="268443108" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="14" pc="268443138" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="15" pc="268443168" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="19" pc="268443199" symbol="onStart"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="24" pc="268443204" symbol="onStop"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="26" pc="268443208" symbol="onStop"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="27" pc="268443226" symbol="onStop"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="31" pc="268443245" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="33" pc="268443249" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="36" pc="268443317" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\StretchingApp.mc" lineNum="38" pc="268443321" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="21" pc="268443340" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="23" pc="268443344" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="25" pc="268443357" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="26" pc="268443379" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="30" pc="268443404" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="32" pc="268443408" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="34" pc="268443439" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="36" pc="268443452" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="37" pc="268443489" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="39" pc="268443508" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="41" pc="268443527" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="44" pc="268443609" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="46" pc="268443629" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="47" pc="268443647" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="51" pc="268443671" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="52" pc="268443689" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="54" pc="268443710" symbol="ToggleRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="58" pc="268443726" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="60" pc="268443730" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="62" pc="268443743" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="64" pc="268443747" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="66" pc="268443764" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="68" pc="268443794" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="74" pc="268443953" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="77" pc="268443976" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="84" pc="268444122" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="87" pc="268444169" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="92" pc="268444315" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="95" pc="268444362" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="102" pc="268444521" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="111" pc="268444683" symbol="CreateCustomFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="116" pc="268444705" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="118" pc="268444709" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="119" pc="268444731" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="121" pc="268444744" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="122" pc="268444764" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="123" pc="268444785" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="125" pc="268444806" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="127" pc="268444819" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="128" pc="268444866" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="129" pc="268444887" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="131" pc="268444935" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="133" pc="268444948" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="134" pc="268444995" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="135" pc="268445016" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="138" pc="268445064" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="141" pc="268445077" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="143" pc="268445130" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="146" pc="268445143" symbol="StoreFields"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="150" pc="268445197" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="152" pc="268445201" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="154" pc="268445248" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="156" pc="268445268" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="158" pc="268445289" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="159" pc="268445301" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="160" pc="268445319" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="165" pc="268445343" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="167" pc="268445370" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="169" pc="268445390" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="171" pc="268445411" symbol="SaveRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="176" pc="268445427" symbol="AddLap"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="178" pc="268445431" symbol="AddLap"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="180" pc="268445445" symbol="AddLap"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="181" pc="268445463" symbol="AddLap"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="185" pc="268445488" symbol="AbortRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="187" pc="268445492" symbol="AbortRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="189" pc="268445519" symbol="AbortRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="191" pc="268445539" symbol="AbortRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="193" pc="268445560" symbol="AbortRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="194" pc="268445578" symbol="AbortRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="195" pc="268445587" symbol="AbortRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="199" pc="268445612" symbol="IsRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="201" pc="268445616" symbol="IsRecording"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\Recorder.mc" lineNum="207" pc="268445685" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="16" pc="268445690" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="18" pc="268445694" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="19" pc="268445712" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="21" pc="268445723" symbol="getDrawable"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="23" pc="268445727" symbol="getDrawable"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="28" pc="268445840" symbol="getSize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="30" pc="268445844" symbol="getSize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="32" pc="268445854" symbol="getValue"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="34" pc="268445858" symbol="getValue"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="42" pc="268445862" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="44" pc="268445866" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="45" pc="268445884" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="46" pc="268445894" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="49" pc="268445905" symbol="onResponse"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="51" pc="268445909" symbol="onResponse"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="61" pc="268445935" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="63" pc="268445939" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="64" pc="268445957" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="65" pc="268445967" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="66" pc="268445977" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="69" pc="268445988" symbol="onAccept"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="72" pc="268445992" symbol="onAccept"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="74" pc="268446012" symbol="onAccept"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="79" pc="268446083" symbol="onAccept"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="81" pc="268446169" symbol="onAccept"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="82" pc="268446197" symbol="onAccept"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="84" pc="268446201" symbol="onCancel"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="86" pc="268446205" symbol="onCancel"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="87" pc="268446233" symbol="onCancel"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="93" pc="268446237" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="95" pc="268446241" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="96" pc="268446248" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="98" pc="268446291" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="105" pc="268446505" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="107" pc="268446548" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="108" pc="268446578" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="111" pc="268446637" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="114" pc="268446651" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="116" pc="268446678" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="118" pc="268446694" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="119" pc="268446701" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="120" pc="268446708" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="122" pc="268446719" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="124" pc="268446732" symbol="initialize"/>
-<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\source\\GenericPicker.mc" lineNum="125" pc="268446742" symbol="initialize"/>
-<entry filename="Rez" lineNum="29" pc="268447002" symbol="initialize"/>
-<entry filename="Rez" lineNum="30" pc="268447006" symbol="initialize"/>
-<entry filename="Rez" lineNum="31" pc="268447024" symbol="initialize"/>
-<entry filename="Rez" lineNum="32" pc="268447076" symbol="initialize"/>
-<entry filename="Rez" lineNum="33" pc="268447128" symbol="initialize"/>
-<entry filename="Rez" lineNum="34" pc="268447180" symbol="initialize"/>
-<entry filename="Rez" lineNum="35" pc="268447232" symbol="initialize"/>
-<entry filename="Rez" lineNum="52" pc="268447285" symbol="initialize"/>
-<entry filename="Rez" lineNum="53" pc="268447289" symbol="initialize"/>
-<entry filename="Rez" lineNum="56" pc="268447314" symbol="draw"/>
-<entry filename="Rez" lineNum="57" pc="268447318" symbol="draw"/>
-<entry filename="Rez" lineNum="58" pc="268447325" symbol="draw"/>
-<entry filename="Rez" lineNum="59" pc="268447332" symbol="draw"/>
-<entry filename="Rez" lineNum="60" pc="268447345" symbol="draw"/>
-<entry filename="Rez" lineNum="61" pc="268447358" symbol="draw"/>
-<entry filename="Rez" lineNum="64" pc="268447381" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="65" pc="268447385" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="66" pc="268447421" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="67" pc="268447465" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="69" pc="268447501" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="70" pc="268447537" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="83" pc="268447600" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="87" pc="268447612" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="88" pc="268447648" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="89" pc="268447675" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="91" pc="268447691" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="92" pc="268447792" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="93" pc="268447925" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="94" pc="268448026" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="95" pc="268448127" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="96" pc="268448260" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="97" pc="268448421" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="98" pc="268448554" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="99" pc="268448687" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="100" pc="268448848" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="101" pc="268448981" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="104" pc="268449114" symbol="MainLayout"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="20" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="22" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="23" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="24" pc="268435490" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="26" pc="268435526" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="27" pc="268435568" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="28" pc="268435600" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="29" pc="268435628" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="31" pc="268435645" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="36" pc="268435667" symbol="onLayout"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="38" pc="268435671" symbol="onLayout"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="44" pc="268435709" symbol="onShow"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="47" pc="268435713" symbol="onShow"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="48" pc="268435725" symbol="onShow"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="52" pc="268435770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="55" pc="268435774" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="56" pc="268435794" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="57" pc="268435806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="58" pc="268435818" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="59" pc="268435830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="62" pc="268435845" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="64" pc="268435849" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="65" pc="268435873" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="66" pc="268435901" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="68" pc="268435922" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="72" pc="268435949" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="74" pc="268435973" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="75" pc="268435997" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="77" pc="268436020" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="81" pc="268436070" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="83" pc="268436105" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="84" pc="268436129" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="86" pc="268436150" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="87" pc="268436182" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="88" pc="268436206" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="89" pc="268436238" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="90" pc="268436262" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="94" pc="268436302" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="95" pc="268436334" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="96" pc="268436358" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="97" pc="268436390" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="98" pc="268436414" symbol="UpdateTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="102" pc="268436452" symbol="setTimePretty"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="104" pc="268436456" symbol="setTimePretty"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="105" pc="268436466" symbol="setTimePretty"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="106" pc="268436476" symbol="setTimePretty"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="108" pc="268436487" symbol="setTimePretty"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="110" pc="268436509" symbol="setTimePretty"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="112" pc="268436520" symbol="setTimePretty"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="114" pc="268436542" symbol="setTimePretty"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="117" pc="268436566" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="119" pc="268436570" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="120" pc="268436587" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="121" pc="268436587" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="123" pc="268436587" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="125" pc="268436604" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="129" pc="268436632" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="131" pc="268436651" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="133" pc="268436668" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="137" pc="268436696" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="139" pc="268436715" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="140" pc="268436739" symbol="setTime"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="143" pc="268436763" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="145" pc="268436767" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="146" pc="268436770" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="148" pc="268436783" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="149" pc="268436800" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="152" pc="268436819" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="154" pc="268436832" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="156" pc="268436839" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="158" pc="268436859" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="160" pc="268436878" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="162" pc="268436889" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="164" pc="268436896" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="166" pc="268436916" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="167" pc="268436940" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="169" pc="268436951" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="171" pc="268436968" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="176" pc="268436993" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="178" pc="268437010" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="183" pc="268437035" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="185" pc="268437046" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="187" pc="268437053" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="189" pc="268437073" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="190" pc="268437097" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="192" pc="268437114" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="194" pc="268437131" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="196" pc="268437153" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="197" pc="268437177" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="201" pc="268437209" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="203" pc="268437226" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="205" pc="268437248" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="206" pc="268437272" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="209" pc="268437292" symbol="setPhoneStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="212" pc="268437296" symbol="setRecordingStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="214" pc="268437300" symbol="setRecordingStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="215" pc="268437324" symbol="setRecordingStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="217" pc="268437344" symbol="setRecordingStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="219" pc="268437361" symbol="setRecordingStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="223" pc="268437386" symbol="setRecordingStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="225" pc="268437403" symbol="setRecordingStatus"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="233" pc="268437426" symbol="onHide"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="245" pc="268437431" symbol="onTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="247" pc="268437435" symbol="onTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="249" pc="268437453" symbol="onTimer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="252" pc="268437470" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="254" pc="268437474" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="255" pc="268437498" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="256" pc="268437508" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="258" pc="268437521" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="259" pc="268437544" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="260" pc="268437568" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="262" pc="268437585" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="267" pc="268437610" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="268" pc="268437627" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="269" pc="268437651" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingView.mc" lineNum="271" pc="268437668" symbol="onSnsr"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="32" pc="268437691" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="34" pc="268437695" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="37" pc="268437708" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="39" pc="268437712" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="40" pc="268437733" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="44" pc="268437750" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="45" pc="268437771" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="47" pc="268437778" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="49" pc="268437795" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="50" pc="268437813" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="52" pc="268437820" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="54" pc="268437862" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="55" pc="268437880" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="57" pc="268437887" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="59" pc="268437929" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="60" pc="268437947" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="62" pc="268437954" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="64" pc="268437967" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="65" pc="268437985" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="67" pc="268437992" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="69" pc="268438005" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="70" pc="268438023" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="72" pc="268438030" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="74" pc="268438043" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="75" pc="268438061" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="77" pc="268438068" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="79" pc="268438081" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="80" pc="268438099" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="82" pc="268438106" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="84" pc="268438119" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="85" pc="268438137" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="87" pc="268438144" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="89" pc="268438157" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="90" pc="268438175" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="92" pc="268438196" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="96" pc="268438209" symbol="LoadSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="100" pc="268438261" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="102" pc="268438265" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="103" pc="268438282" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="104" pc="268438316" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="105" pc="268438350" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="106" pc="268438375" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="107" pc="268438400" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="108" pc="268438425" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="109" pc="268438450" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="110" pc="268438475" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="111" pc="268438500" symbol="StoreSetup"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="114" pc="268438526" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="116" pc="268438530" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="117" pc="268438551" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="119" pc="268438558" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="121" pc="268438600" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="122" pc="268438621" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="124" pc="268438628" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="126" pc="268438670" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="127" pc="268438691" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="129" pc="268438698" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="131" pc="268438711" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="132" pc="268438732" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="134" pc="268438739" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="136" pc="268438752" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="137" pc="268438773" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="139" pc="268438780" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="141" pc="268438793" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="142" pc="268438814" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="144" pc="268438821" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="146" pc="268438834" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="147" pc="268438855" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="149" pc="268438862" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="151" pc="268438875" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="152" pc="268438896" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="154" pc="268438903" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="156" pc="268438916" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="157" pc="268438937" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="159" pc="268438944" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="161" pc="268438957" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="162" pc="268438969" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="163" pc="268438989" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="164" pc="268439009" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="165" pc="268439029" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="166" pc="268439049" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="167" pc="268439069" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="168" pc="268439089" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="169" pc="268439109" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="170" pc="268439129" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="171" pc="268439149" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="172" pc="268439161" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\Setup.mc" lineNum="173" pc="268439173" symbol="MigrateOldSettings"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="23" pc="268439195" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="25" pc="268439199" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="26" pc="268439211" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="29" pc="268439248" symbol="Init"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="31" pc="268439252" symbol="Init"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="32" pc="268439262" symbol="Init"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="33" pc="268439272" symbol="Init"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="34" pc="268439282" symbol="Init"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="35" pc="268439295" symbol="Init"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="44" pc="268439327" symbol="StretchActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="46" pc="268439331" symbol="StretchActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="48" pc="268439338" symbol="StretchActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="49" pc="268439348" symbol="StretchActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="51" pc="268439362" symbol="StretchActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="54" pc="268439372" symbol="RestActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="56" pc="268439376" symbol="RestActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="58" pc="268439383" symbol="RestActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="59" pc="268439394" symbol="RestActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="61" pc="268439407" symbol="RestActive"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="64" pc="268439417" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="66" pc="268439421" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="67" pc="268439441" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="69" pc="268439453" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="71" pc="268439470" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="73" pc="268439481" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="75" pc="268439515" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="77" pc="268439526" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="80" pc="268439563" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="84" pc="268439576" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="86" pc="268439586" symbol="ToggleStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="90" pc="268439605" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="92" pc="268439609" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="94" pc="268439621" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="96" pc="268439638" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="97" pc="268439654" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="99" pc="268439665" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="103" pc="268439699" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="106" pc="268439733" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="119" pc="268439737" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="121" pc="268439756" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="124" pc="268439773" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="126" pc="268439784" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="127" pc="268439803" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="129" pc="268439835" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="131" pc="268439870" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="133" pc="268439885" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="137" pc="268439905" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="139" pc="268439910" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="146" pc="268439937" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="148" pc="268439972" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="150" pc="268439987" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="152" pc="268440007" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="153" pc="268440028" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="155" pc="268440039" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="157" pc="268440073" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="159" pc="268440084" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="162" pc="268440121" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="164" pc="268440144" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="167" pc="268440170" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="168" pc="268440182" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="169" pc="268440202" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="170" pc="268440222" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="171" pc="268440242" symbol="Tick"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="176" pc="268440261" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="178" pc="268440265" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="179" pc="268440279" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="181" pc="268440284" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="183" pc="268440303" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="184" pc="268440317" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="186" pc="268440322" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="189" pc="268440341" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="191" pc="268440355" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="193" pc="268440360" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="194" pc="268440412" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="196" pc="268440433" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="198" pc="268440438" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="201" pc="268440472" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="203" pc="268440486" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="205" pc="268440491" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="208" pc="268440631" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="210" pc="268440652" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="212" pc="268440657" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="215" pc="268440691" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="217" pc="268440705" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="219" pc="268440710" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="225" pc="268440982" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="227" pc="268441003" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="229" pc="268441008" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="230" pc="268441036" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="231" pc="268441064" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="232" pc="268441092" symbol="Notify"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="237" pc="268441127" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="239" pc="268441131" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="241" pc="268441142" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="243" pc="268441146" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="244" pc="268441160" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="246" pc="268441177" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="248" pc="268441182" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="249" pc="268441200" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="250" pc="268441210" symbol="BacklightOn"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="255" pc="268441267" symbol="BacklightOff"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="257" pc="268441271" symbol="BacklightOff"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\data\\StretchingTimer.mc" lineNum="258" pc="268441289" symbol="BacklightOff"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="16" pc="268441300" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="18" pc="268441304" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="19" pc="268441322" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="21" pc="268441333" symbol="getDrawable"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="23" pc="268441337" symbol="getDrawable"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="28" pc="268441450" symbol="getSize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="30" pc="268441454" symbol="getSize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="32" pc="268441464" symbol="getValue"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="34" pc="268441468" symbol="getValue"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="42" pc="268441472" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="44" pc="268441476" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="45" pc="268441494" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="46" pc="268441504" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="49" pc="268441515" symbol="onResponse"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="51" pc="268441519" symbol="onResponse"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="61" pc="268441545" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="63" pc="268441549" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="64" pc="268441567" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="65" pc="268441577" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="66" pc="268441587" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="69" pc="268441598" symbol="onAccept"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="72" pc="268441602" symbol="onAccept"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="74" pc="268441622" symbol="onAccept"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="77" pc="268441650" symbol="onAccept"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="79" pc="268441693" symbol="onAccept"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="81" pc="268441779" symbol="onAccept"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="82" pc="268441807" symbol="onAccept"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="84" pc="268441811" symbol="onCancel"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="86" pc="268441815" symbol="onCancel"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="87" pc="268441843" symbol="onCancel"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="93" pc="268441847" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="95" pc="268441851" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="96" pc="268441858" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="98" pc="268441901" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="105" pc="268442115" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="107" pc="268442158" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="108" pc="268442188" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="111" pc="268442247" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="114" pc="268442261" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="116" pc="268442288" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="118" pc="268442304" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="119" pc="268442311" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="120" pc="268442318" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="122" pc="268442329" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="124" pc="268442342" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\GenericPicker.mc" lineNum="125" pc="268442352" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="21" pc="268442612" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="23" pc="268442616" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="25" pc="268442629" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="26" pc="268442651" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="27" pc="268442672" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="34" pc="268442690" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="36" pc="268442694" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="38" pc="268442725" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="40" pc="268442738" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="41" pc="268442775" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="43" pc="268442794" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="45" pc="268442813" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="48" pc="268442895" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="50" pc="268442915" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="51" pc="268442933" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="55" pc="268442957" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="56" pc="268442975" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="58" pc="268442996" symbol="ToggleRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="62" pc="268443012" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="64" pc="268443016" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="66" pc="268443029" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="68" pc="268443033" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="70" pc="268443050" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="72" pc="268443080" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="78" pc="268443239" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="81" pc="268443262" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="88" pc="268443408" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="91" pc="268443455" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="96" pc="268443601" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="99" pc="268443648" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="106" pc="268443807" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="115" pc="268443969" symbol="CreateCustomFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="120" pc="268443991" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="122" pc="268443995" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="123" pc="268444017" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="125" pc="268444030" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="126" pc="268444050" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="127" pc="268444071" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="129" pc="268444092" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="131" pc="268444105" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="132" pc="268444152" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="133" pc="268444173" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="135" pc="268444221" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="137" pc="268444234" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="138" pc="268444281" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="139" pc="268444302" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="142" pc="268444350" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="145" pc="268444363" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="147" pc="268444416" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="150" pc="268444429" symbol="StoreFields"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="154" pc="268444483" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="156" pc="268444487" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="158" pc="268444534" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="160" pc="268444554" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="162" pc="268444575" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="163" pc="268444587" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="164" pc="268444605" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="169" pc="268444629" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="171" pc="268444656" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="173" pc="268444676" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="175" pc="268444697" symbol="SaveRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="180" pc="268444713" symbol="AddLap"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="182" pc="268444717" symbol="AddLap"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="184" pc="268444731" symbol="AddLap"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="185" pc="268444749" symbol="AddLap"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="189" pc="268444774" symbol="AbortRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="191" pc="268444778" symbol="AbortRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="193" pc="268444805" symbol="AbortRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="195" pc="268444825" symbol="AbortRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="197" pc="268444846" symbol="AbortRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="198" pc="268444864" symbol="AbortRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="199" pc="268444873" symbol="AbortRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="203" pc="268444898" symbol="IsRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="205" pc="268444902" symbol="IsRecording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="211" pc="268444971" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\Recorder.mc" lineNum="212" pc="268444975" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="7" pc="268444998" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="9" pc="268445002" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="12" pc="268445021" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="14" pc="268445025" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="25" pc="268445137" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="26" pc="268445144" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="28" pc="268445151" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="29" pc="268445166" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="31" pc="268445181" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="34" pc="268445198" symbol="Timer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="36" pc="268445202" symbol="Timer"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="39" pc="268445256" symbol="Rest"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="41" pc="268445260" symbol="Rest"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="44" pc="268445314" symbol="Reputation"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="46" pc="268445318" symbol="Reputation"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="49" pc="268445372" symbol="Vibrate"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="51" pc="268445376" symbol="Vibrate"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="54" pc="268445481" symbol="Sound"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="56" pc="268445485" symbol="Sound"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="59" pc="268445590" symbol="Light"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="61" pc="268445594" symbol="Light"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="64" pc="268445699" symbol="Autostart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="66" pc="268445703" symbol="Autostart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="69" pc="268445808" symbol="Recording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="71" pc="268445812" symbol="Recording"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="74" pc="268445917" symbol="ShowGenericPicker"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingMenuDelegate.mc" lineNum="76" pc="268445921" symbol="ShowGenericPicker"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="10" pc="268445954" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="12" pc="268445958" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="13" pc="268445976" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="14" pc="268446006" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="15" pc="268446036" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="19" pc="268446067" symbol="onStart"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="24" pc="268446072" symbol="onStop"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="26" pc="268446076" symbol="onStop"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="27" pc="268446094" symbol="onStop"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="31" pc="268446113" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="33" pc="268446117" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="36" pc="268446185" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingApp.mc" lineNum="38" pc="268446189" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="7" pc="268446208" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="9" pc="268446212" symbol="initialize"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="12" pc="268446231" symbol="onMenu"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="14" pc="268446235" symbol="onMenu"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="16" pc="268446252" symbol="onMenu"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="18" pc="268446273" symbol="onMenu"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="19" pc="268446309" symbol="onMenu"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="20" pc="268446341" symbol="onMenu"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="21" pc="268446355" symbol="onMenu"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="22" pc="268446407" symbol="onMenu"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="25" pc="268446411" symbol="AddSupport"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="27" pc="268446415" symbol="AddSupport"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="29" pc="268446430" symbol="AddSupport"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="32" pc="268446470" symbol="AddSupport"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="34" pc="268446485" symbol="AddSupport"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="37" pc="268446525" symbol="AddSupport"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="39" pc="268446540" symbol="AddSupport"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="43" pc="268446581" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="45" pc="268446585" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="47" pc="268446598" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="49" pc="268446616" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="50" pc="268446637" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="51" pc="268446655" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="54" pc="268446661" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="56" pc="268446679" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="59" pc="268446703" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="61" pc="268446721" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="63" pc="268446738" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="64" pc="268446759" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="65" pc="268446777" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="67" pc="268446783" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="70" pc="268446807" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="72" pc="268446825" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="74" pc="268446849" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="76" pc="268446888" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="77" pc="268446900" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="81" pc="268446906" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="83" pc="268446939" symbol="onKey"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="86" pc="268446943" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="89" pc="268446947" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="90" pc="268446960" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="91" pc="268446986" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="93" pc="268447004" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="95" pc="268447010" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="97" pc="268447028" symbol="onSwipe"/>
+<entry filename="C:\\Users\\Thomas\\Documents\\GitHub\\Stretch\\.\\source\\StretchingDelegate.mc" lineNum="99" pc="268447034" symbol="onSwipe"/>
+<entry filename="Rez" lineNum="29" pc="268447038" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268447042" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268447060" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268447112" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268447164" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268447216" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268447268" symbol="initialize"/>
+<entry filename="Rez" lineNum="52" pc="268447321" symbol="initialize"/>
+<entry filename="Rez" lineNum="53" pc="268447325" symbol="initialize"/>
+<entry filename="Rez" lineNum="56" pc="268447350" symbol="draw"/>
+<entry filename="Rez" lineNum="57" pc="268447354" symbol="draw"/>
+<entry filename="Rez" lineNum="58" pc="268447361" symbol="draw"/>
+<entry filename="Rez" lineNum="59" pc="268447368" symbol="draw"/>
+<entry filename="Rez" lineNum="60" pc="268447381" symbol="draw"/>
+<entry filename="Rez" lineNum="61" pc="268447394" symbol="draw"/>
+<entry filename="Rez" lineNum="64" pc="268447417" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="65" pc="268447421" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="66" pc="268447457" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="67" pc="268447501" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="69" pc="268447537" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="70" pc="268447573" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="83" pc="268447636" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="87" pc="268447648" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="88" pc="268447684" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="89" pc="268447711" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="91" pc="268447727" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="92" pc="268447828" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="93" pc="268447961" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="94" pc="268448062" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="95" pc="268448163" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="96" pc="268448296" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="97" pc="268448457" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="98" pc="268448590" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="99" pc="268448723" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="100" pc="268448884" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="101" pc="268449017" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="102" pc="268449150" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="105" pc="268449251" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389101" method="true" symbol="onSwipe"/>
@@ -565,7 +573,7 @@
 <entry id="8389349" symbol="justification"/>
 <entry field="true" id="61" symbol="main_label_Rest"/>
 <entry id="124" method="true" symbol="BacklightOff"/>
-<entry id="26" object="true" symbol="GenericPickerDialog"/>
+<entry id="18" object="true" symbol="GenericPickerDialog"/>
 <entry field="true" id="115" symbol="backlightDuration"/>
 <entry field="true" id="31" symbol="Sound_KEY"/>
 <entry id="8389642" symbol="title"/>
@@ -573,20 +581,20 @@
 <entry id="8389097" method="true" symbol="onKey"/>
 <entry field="true" id="30" symbol="Vibrate_KEY"/>
 <entry id="83" method="true" symbol="UpdateTimer"/>
-<entry field="true" id="21" symbol="GENERIC_PICKER_Time"/>
+<entry field="true" id="13" symbol="GENERIC_PICKER_Time"/>
 <entry field="true" id="34" symbol="Recording_KEY"/>
-<entry field="true" id="90" symbol="_mode"/>
+<entry field="true" id="92" symbol="_mode"/>
 <entry field="true" id="41" method="true" symbol="Light"/>
 <entry field="true" id="108" symbol="running"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="15" symbol="StretchTimer"/>
+<entry field="true" id="23" symbol="StretchTimer"/>
 <entry field="true" id="36" symbol="StretchDuration"/>
 <entry field="true" id="69" symbol="TimeInPowerZone"/>
 <entry id="59" object="true" symbol="MainMenu"/>
-<entry id="24" object="true" symbol="MyConfirmationDelegate"/>
+<entry id="16" object="true" symbol="MyConfirmationDelegate"/>
 <entry field="true" id="107" symbol="Short"/>
 <entry field="true" id="93" symbol="supportsRecording"/>
-<entry id="12" object="true" symbol="StretchingMenuDelegate"/>
+<entry id="21" object="true" symbol="StretchingMenuDelegate"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry field="true" id="77" symbol="menu_label_Light"/>
 <entry id="8389342" symbol="hours"/>
@@ -614,8 +622,8 @@
 <entry id="117" method="true" symbol="Init"/>
 <entry id="8389626" method="true" symbol="onAccept"/>
 <entry id="101" method="true" symbol="CreateCustomFields"/>
-<entry field="true" id="91" symbol="_object"/>
-<entry field="true" id="16" symbol="ActivityRecorder"/>
+<entry field="true" id="90" symbol="_object"/>
+<entry field="true" id="24" symbol="ActivityRecorder"/>
 <entry field="true" id="79" symbol="timer"/>
 <entry id="120" method="true" symbol="ToggleStart"/>
 <entry id="8388702" method="true" symbol="initialize"/>
@@ -635,7 +643,7 @@
 <entry field="true" id="40" method="true" symbol="Sound"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry id="84" method="true" symbol="setTimePretty"/>
-<entry id="17" object="true" symbol="StretchingApp"/>
+<entry id="25" object="true" symbol="StretchingApp"/>
 <entry id="119" method="true" symbol="RestActive"/>
 <entry id="135" symbol="item_8"/>
 <entry id="134" symbol="item_7"/>
@@ -646,7 +654,7 @@
 <entry id="129" symbol="item_2"/>
 <entry id="128" symbol="item_1"/>
 <entry field="true" id="78" symbol="menu_label_Rest"/>
-<entry id="19" object="true" symbol="CustomField"/>
+<entry id="20" object="true" symbol="CustomField"/>
 <entry field="true" id="64" symbol="menu_label_Sound"/>
 <entry id="8389108" method="true" symbol="onResponse"/>
 <entry field="true" id="56" symbol="LauncherIcon"/>
@@ -665,12 +673,12 @@
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry field="true" id="109" symbol="stretchActive"/>
 <entry id="8388891" symbol="subSport"/>
-<entry id="23" object="true" symbol="NumberFactory"/>
+<entry id="15" object="true" symbol="NumberFactory"/>
 <entry id="123" method="true" symbol="BacklightOn"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="103" method="true" symbol="SaveRecording"/>
 <entry id="8389936" symbol="nativeNum"/>
-<entry field="true" id="14" symbol="GlobalSetup"/>
+<entry field="true" id="22" symbol="GlobalSetup"/>
 <entry field="true" id="95" symbol="durationField"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="52" symbol="Heart"/>
@@ -696,19 +704,19 @@
 <entry field="true" id="29" symbol="Reputation_KEY"/>
 <entry field="true" id="71" symbol="unit_Rep"/>
 <entry field="true" id="45" symbol="ActivityName"/>
-<entry field="true" id="92" symbol="_symbol"/>
+<entry field="true" id="91" symbol="_symbol"/>
 <entry field="true" id="97" symbol="timeInPowerZone"/>
 <entry id="51" module="true" symbol="Layouts"/>
-<entry field="true" id="20" symbol="GENERIC_PICKER_Number"/>
-<entry id="25" object="true" symbol="MyPickerDelegate"/>
+<entry field="true" id="12" symbol="GENERIC_PICKER_Number"/>
+<entry id="17" object="true" symbol="MyPickerDelegate"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry field="true" id="110" symbol="restActive"/>
-<entry field="true" id="22" symbol="GENERIC_PICKER_Bool"/>
-<entry id="18" object="true" symbol="Recorder"/>
+<entry field="true" id="14" symbol="GENERIC_PICKER_Bool"/>
+<entry id="19" object="true" symbol="Recorder"/>
 <entry id="8389345" symbol="rezId"/>
 <entry field="true" id="8389584" symbol="notificationCount"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry id="11" object="true" symbol="StretchingView"/>
+<entry id="9" object="true" symbol="StretchingView"/>
 <entry id="8389780" module="true" symbol="FitContributor"/>
 <entry id="8389644" symbol="defaults"/>
 <entry id="8389628" method="true" symbol="getDrawable"/>
@@ -722,12 +730,12 @@
 <entry id="100" method="true" symbol="ToggleRecording"/>
 <entry field="true" id="62" symbol="unit_Duration"/>
 <entry id="8389643" symbol="pattern"/>
-<entry id="9" object="true" symbol="StretchingTimer"/>
+<entry id="11" object="true" symbol="StretchingTimer"/>
 <entry field="true" id="68" symbol="TimeStanding"/>
 <entry field="true" id="35" symbol="ActivityName_KEY"/>
 <entry field="true" id="111" symbol="lastTick"/>
 <entry id="8389847" symbol="mesgType"/>
-<entry id="13" object="true" symbol="StretchingDelegate"/>
+<entry id="26" object="true" symbol="StretchingDelegate"/>
 <entry id="88" method="true" symbol="onTimer"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8389630" method="true" symbol="getSize"/>
@@ -735,146 +743,104 @@
 <entry id="8389541" method="true" symbol="onCancel"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435633" name="active" stackId="1" startPc="268435588"/>
-<entry endPc="268435678" name="active" stackId="1" startPc="268435633"/>
-<entry endPc="268436691" name="vibrateData" stackId="4" startPc="268436621"/>
-<entry endPc="268436910" name="vibrateData" stackId="5" startPc="268436752"/>
-<entry endPc="268437261" name="vibrateData" stackId="6" startPc="268436971"/>
-<entry endPc="268437387" name="hasTone" stackId="2" startPc="268436526"/>
-<entry endPc="268437387" name="hasVibrate" stackId="3" startPc="268436526"/>
-<entry endPc="268437388" name="mode" stackId="1" startPc="268436522"/>
-<entry endPc="268437527" name="hasLight" stackId="1" startPc="268437392"/>
-<entry endPc="268438130" name="value" stackId="2" startPc="268437582"/>
-<entry endPc="268438130" name="app" stackId="1" startPc="268437582"/>
-<entry endPc="268438395" name="app" stackId="1" startPc="268438135"/>
-<entry endPc="268439064" name="value" stackId="2" startPc="268438400"/>
-<entry endPc="268439065" name="app" stackId="1" startPc="268438396"/>
-<entry endPc="268439318" name="dc" stackId="1" startPc="268439276"/>
-<entry endPc="268439454" name="dc" stackId="1" startPc="268439379"/>
-<entry endPc="268440060" name="view" stackId="2" startPc="268439458"/>
-<entry endPc="268440061" name="dc" stackId="1" startPc="268439454"/>
-<entry endPc="268440174" name="minutes" stackId="3" startPc="268440065"/>
-<entry endPc="268440174" name="seconds" stackId="4" startPc="268440065"/>
-<entry endPc="268440175" name="view" stackId="1" startPc="268440061"/>
-<entry endPc="268440175" name="duration" stackId="2" startPc="268440061"/>
-<entry endPc="268440371" name="view" stackId="4" startPc="268440179"/>
-<entry endPc="268440371" name="hour" stackId="2" startPc="268440179"/>
-<entry endPc="268440371" name="min" stackId="3" startPc="268440179"/>
-<entry endPc="268440371" name="clockTime" stackId="1" startPc="268440179"/>
-<entry endPc="268440641" name="view" stackId="2" startPc="268440498"/>
-<entry endPc="268440898" name="view" stackId="3" startPc="268440655"/>
-<entry endPc="268440904" name="settings" stackId="1" startPc="268440376"/>
-<entry endPc="268441034" name="view" stackId="1" startPc="268440909"/>
-<entry endPc="268441299" name="view" stackId="2" startPc="268441083"/>
-<entry endPc="268441299" name="HR" stackId="3" startPc="268441083"/>
-<entry endPc="268441300" name="sensor_info" stackId="1" startPc="268441079"/>
-<entry endPc="268441480" name="handler" stackId="4" startPc="268441453"/>
-<entry endPc="268441499" name="symbol" stackId="3" startPc="268441327"/>
-<entry endPc="268441499" name="functions" stackId="2" startPc="268441327"/>
-<entry endPc="268441500" name="item" stackId="1" startPc="268441323"/>
-<entry endPc="268442255" name="gpd" stackId="5" startPc="268442223"/>
-<entry endPc="268442256" name="object" stackId="3" startPc="268442219"/>
-<entry endPc="268442256" name="type" stackId="1" startPc="268442219"/>
-<entry endPc="268442256" name="symbol" stackId="4" startPc="268442219"/>
-<entry endPc="268442256" name="title" stackId="2" startPc="268442219"/>
-<entry endPc="268442458" name="menu" stackId="1" startPc="268442283"/>
-<entry endPc="268442629" name="menu" stackId="1" startPc="268442459"/>
-<entry endPc="268442990" name="key" stackId="2" startPc="268442633"/>
-<entry endPc="268442991" name="evt" stackId="1" startPc="268442629"/>
-<entry endPc="268443085" name="dir" stackId="2" startPc="268442995"/>
-<entry endPc="268443086" name="swipeEvent" stackId="1" startPc="268442991"/>
-<entry endPc="268443204" name="state" stackId="1" startPc="268443199"/>
-<entry endPc="268443245" name="state" stackId="1" startPc="268443204"/>
-<entry endPc="268443606" name="str" stackId="1" startPc="268443452"/>
-<entry endPc="268445196" name="completedReps" stackId="1" startPc="268444709"/>
-<entry endPc="268445723" name="maxSize" stackId="1" startPc="268445690"/>
-<entry endPc="268445840" name="isSelected" stackId="2" startPc="268445723"/>
-<entry endPc="268445840" name="item" stackId="1" startPc="268445723"/>
-<entry endPc="268445862" name="item" stackId="1" startPc="268445854"/>
-<entry endPc="268445905" name="object" stackId="1" startPc="268445862"/>
-<entry endPc="268445905" name="symbol" stackId="2" startPc="268445862"/>
-<entry endPc="268445935" name="value" stackId="1" startPc="268445905"/>
-<entry endPc="268445988" name="object" stackId="2" startPc="268445935"/>
-<entry endPc="268445988" name="symbol" stackId="3" startPc="268445935"/>
-<entry endPc="268445988" name="mode" stackId="1" startPc="268445935"/>
-<entry endPc="268446201" name="values" stackId="1" startPc="268445988"/>
-<entry endPc="268446634" name="cd" stackId="6" startPc="268446548"/>
-<entry endPc="268446998" name="value2" stackId="8" startPc="268446651"/>
-<entry endPc="268446998" name="value1" stackId="7" startPc="268446651"/>
-<entry endPc="268447001" name="value" stackId="5" startPc="268446241"/>
-<entry endPc="268447002" name="object" stackId="3" startPc="268446237"/>
-<entry endPc="268447002" name="symbol" stackId="4" startPc="268446237"/>
-<entry endPc="268447002" name="title" stackId="2" startPc="268446237"/>
-<entry endPc="268447002" name="mode" stackId="1" startPc="268446237"/>
-<entry endPc="268447380" name="pWidth" stackId="4" startPc="268447318"/>
-<entry endPc="268447380" name="pY" stackId="3" startPc="268447318"/>
-<entry endPc="268447380" name="pX" stackId="2" startPc="268447318"/>
-<entry endPc="268447380" name="pHeight" stackId="5" startPc="268447318"/>
-<entry endPc="268447381" name="dc" stackId="1" startPc="268447314"/>
-<entry endPc="268447600" name="pWidth" stackId="4" startPc="268447381"/>
-<entry endPc="268447600" name="dc" stackId="1" startPc="268447381"/>
-<entry endPc="268447600" name="pY" stackId="3" startPc="268447381"/>
-<entry endPc="268447600" name="pX" stackId="2" startPc="268447381"/>
-<entry endPc="268447600" name="pHeight" stackId="5" startPc="268447381"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_lblTypeActive" stackId="8" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_MessageCounter" stackId="7" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_lblTypeNext" stackId="11" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_Bluetooth" stackId="5" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_heartrate" stackId="4" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_lblNext" stackId="12" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_lblElapse" stackId="10" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_Messages" stackId="6" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_custom_drawable_statusLayout" stackId="2" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_lblRep" stackId="13" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_Heart" stackId="3" startPc="268447612"/>
-<entry endPc="268449241" name="rez_cmp_local_bitmap_time" stackId="9" startPc="268447612"/>
-<entry endPc="268449242" name="dc" stackId="1" startPc="268447600"/>
+<entry endPc="268435709" name="dc" stackId="1" startPc="268435667"/>
+<entry endPc="268435845" name="dc" stackId="1" startPc="268435770"/>
+<entry endPc="268436451" name="view" stackId="2" startPc="268435849"/>
+<entry endPc="268436452" name="dc" stackId="1" startPc="268435845"/>
+<entry endPc="268436565" name="minutes" stackId="3" startPc="268436456"/>
+<entry endPc="268436565" name="seconds" stackId="4" startPc="268436456"/>
+<entry endPc="268436566" name="view" stackId="1" startPc="268436452"/>
+<entry endPc="268436566" name="duration" stackId="2" startPc="268436452"/>
+<entry endPc="268436762" name="view" stackId="4" startPc="268436570"/>
+<entry endPc="268436762" name="hour" stackId="2" startPc="268436570"/>
+<entry endPc="268436762" name="min" stackId="3" startPc="268436570"/>
+<entry endPc="268436762" name="clockTime" stackId="1" startPc="268436570"/>
+<entry endPc="268437032" name="view" stackId="2" startPc="268436889"/>
+<entry endPc="268437289" name="view" stackId="3" startPc="268437046"/>
+<entry endPc="268437295" name="settings" stackId="1" startPc="268436767"/>
+<entry endPc="268437425" name="view" stackId="1" startPc="268437300"/>
+<entry endPc="268437690" name="view" stackId="2" startPc="268437474"/>
+<entry endPc="268437690" name="HR" stackId="3" startPc="268437474"/>
+<entry endPc="268437691" name="sensor_info" stackId="1" startPc="268437470"/>
+<entry endPc="268438260" name="value" stackId="2" startPc="268437712"/>
+<entry endPc="268438260" name="app" stackId="1" startPc="268437712"/>
+<entry endPc="268438525" name="app" stackId="1" startPc="268438265"/>
+<entry endPc="268439194" name="value" stackId="2" startPc="268438530"/>
+<entry endPc="268439195" name="app" stackId="1" startPc="268438526"/>
+<entry endPc="268439372" name="active" stackId="1" startPc="268439327"/>
+<entry endPc="268439417" name="active" stackId="1" startPc="268439372"/>
+<entry endPc="268440430" name="vibrateData" stackId="4" startPc="268440360"/>
+<entry endPc="268440649" name="vibrateData" stackId="5" startPc="268440491"/>
+<entry endPc="268441000" name="vibrateData" stackId="6" startPc="268440710"/>
+<entry endPc="268441126" name="hasTone" stackId="2" startPc="268440265"/>
+<entry endPc="268441126" name="hasVibrate" stackId="3" startPc="268440265"/>
+<entry endPc="268441127" name="mode" stackId="1" startPc="268440261"/>
+<entry endPc="268441266" name="hasLight" stackId="1" startPc="268441131"/>
+<entry endPc="268441333" name="maxSize" stackId="1" startPc="268441300"/>
+<entry endPc="268441450" name="isSelected" stackId="2" startPc="268441333"/>
+<entry endPc="268441450" name="item" stackId="1" startPc="268441333"/>
+<entry endPc="268441472" name="item" stackId="1" startPc="268441464"/>
+<entry endPc="268441515" name="object" stackId="1" startPc="268441472"/>
+<entry endPc="268441515" name="symbol" stackId="2" startPc="268441472"/>
+<entry endPc="268441545" name="value" stackId="1" startPc="268441515"/>
+<entry endPc="268441598" name="object" stackId="2" startPc="268441545"/>
+<entry endPc="268441598" name="symbol" stackId="3" startPc="268441545"/>
+<entry endPc="268441598" name="mode" stackId="1" startPc="268441545"/>
+<entry endPc="268441811" name="values" stackId="1" startPc="268441598"/>
+<entry endPc="268442244" name="cd" stackId="6" startPc="268442158"/>
+<entry endPc="268442608" name="value2" stackId="8" startPc="268442261"/>
+<entry endPc="268442608" name="value1" stackId="7" startPc="268442261"/>
+<entry endPc="268442611" name="value" stackId="5" startPc="268441851"/>
+<entry endPc="268442612" name="object" stackId="3" startPc="268441847"/>
+<entry endPc="268442612" name="symbol" stackId="4" startPc="268441847"/>
+<entry endPc="268442612" name="title" stackId="2" startPc="268441847"/>
+<entry endPc="268442612" name="mode" stackId="1" startPc="268441847"/>
+<entry endPc="268442892" name="str" stackId="1" startPc="268442738"/>
+<entry endPc="268444482" name="completedReps" stackId="1" startPc="268443995"/>
+<entry endPc="268445178" name="handler" stackId="4" startPc="268445151"/>
+<entry endPc="268445197" name="symbol" stackId="3" startPc="268445025"/>
+<entry endPc="268445197" name="functions" stackId="2" startPc="268445025"/>
+<entry endPc="268445198" name="item" stackId="1" startPc="268445021"/>
+<entry endPc="268445953" name="gpd" stackId="5" startPc="268445921"/>
+<entry endPc="268445954" name="object" stackId="3" startPc="268445917"/>
+<entry endPc="268445954" name="type" stackId="1" startPc="268445917"/>
+<entry endPc="268445954" name="symbol" stackId="4" startPc="268445917"/>
+<entry endPc="268445954" name="title" stackId="2" startPc="268445917"/>
+<entry endPc="268446072" name="state" stackId="1" startPc="268446067"/>
+<entry endPc="268446113" name="state" stackId="1" startPc="268446072"/>
+<entry endPc="268446410" name="menu" stackId="1" startPc="268446235"/>
+<entry endPc="268446581" name="menu" stackId="1" startPc="268446411"/>
+<entry endPc="268446942" name="key" stackId="2" startPc="268446585"/>
+<entry endPc="268446943" name="evt" stackId="1" startPc="268446581"/>
+<entry endPc="268447037" name="dir" stackId="2" startPc="268446947"/>
+<entry endPc="268447038" name="swipeEvent" stackId="1" startPc="268446943"/>
+<entry endPc="268447416" name="pWidth" stackId="4" startPc="268447354"/>
+<entry endPc="268447416" name="pY" stackId="3" startPc="268447354"/>
+<entry endPc="268447416" name="pX" stackId="2" startPc="268447354"/>
+<entry endPc="268447416" name="pHeight" stackId="5" startPc="268447354"/>
+<entry endPc="268447417" name="dc" stackId="1" startPc="268447350"/>
+<entry endPc="268447636" name="pWidth" stackId="4" startPc="268447417"/>
+<entry endPc="268447636" name="dc" stackId="1" startPc="268447417"/>
+<entry endPc="268447636" name="pY" stackId="3" startPc="268447417"/>
+<entry endPc="268447636" name="pX" stackId="2" startPc="268447417"/>
+<entry endPc="268447636" name="pHeight" stackId="5" startPc="268447417"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_lblTypeActive" stackId="8" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_MessageCounter" stackId="7" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_lblTypeNext" stackId="11" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_Bluetooth" stackId="5" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_heartrate" stackId="4" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_lblNext" stackId="12" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_lblElapse" stackId="10" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_Messages" stackId="6" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_custom_drawable_statusLayout" stackId="2" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_lblRep" stackId="13" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_Heart" stackId="3" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_time" stackId="9" startPc="268447648"/>
+<entry endPc="268449388" name="rez_cmp_local_bitmap_bmpRecording" stackId="14" startPc="268447648"/>
+<entry endPc="268449389" name="dc" stackId="1" startPc="268447636"/>
 </localVars>
 <annotations/>
 <functions>
-<functionEntry accessMode="public" name="initialize" parent="StretchingTimer">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="Init" parent="StretchingTimer">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="StretchActive" parent="StretchingTimer">
-<param id="active"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="RestActive" parent="StretchingTimer">
-<param id="active"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="ToggleStart" parent="StretchingTimer">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="Tick" parent="StretchingTimer">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="Notify" parent="StretchingTimer">
-<param id="mode"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="BacklightOn" parent="StretchingTimer">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="BacklightOff" parent="StretchingTimer">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="Setup">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="LoadSetup" parent="Setup">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="StoreSetup" parent="Setup">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="MigrateOldSettings" parent="Setup">
-<param id="app"/>
-<documentation/>
-</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="StretchingView">
 <documentation/>
 </functionEntry>
@@ -917,104 +883,47 @@
 <param id="sensor_info"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="initialize" parent="Setup">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onMenuItem" parent="StretchingMenuDelegate">
-<param id="item"/>
+<functionEntry accessMode="public" name="LoadSetup" parent="Setup">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Timer" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="StoreSetup" parent="Setup">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Rest" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="MigrateOldSettings" parent="Setup">
+<param id="app"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Reputation" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="initialize" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Vibrate" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Init" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Sound" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="StretchActive" parent="StretchingTimer">
+<param id="active"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Light" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="RestActive" parent="StretchingTimer">
+<param id="active"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Autostart" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="ToggleStart" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="Recording" parent="StretchingMenuDelegate">
+<functionEntry accessMode="public" name="Tick" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="ShowGenericPicker" parent="StretchingMenuDelegate">
-<param id="type"/>
-<param id="title"/>
-<param id="object"/>
-<param id="symbol"/>
+<functionEntry accessMode="public" name="Notify" parent="StretchingTimer">
+<param id="mode"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="StretchingDelegate">
+<functionEntry accessMode="public" name="BacklightOn" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="onMenu" parent="StretchingDelegate">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="AddSupport" parent="StretchingDelegate">
-<param id="menu"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onKey" parent="StretchingDelegate">
-<param id="evt"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onSwipe" parent="StretchingDelegate">
-<param id="swipeEvent"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="StretchingApp">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStart" parent="StretchingApp">
-<param id="state"/>
-<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onStop" parent="StretchingApp">
-<param id="state"/>
-<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="getInitialView" parent="StretchingApp">
-<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onSettingsChanged" parent="StretchingApp">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="Recorder">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="ToggleRecording" parent="Recorder">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="CreateCustomFields" parent="Recorder">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="StoreFields" parent="Recorder">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="SaveRecording" parent="Recorder">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="AddLap" parent="Recorder">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="AbortRecording" parent="Recorder">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="IsRecording" parent="Recorder">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="CustomField">
+<functionEntry accessMode="public" name="BacklightOff" parent="StretchingTimer">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="NumberFactory">
@@ -1062,6 +971,106 @@
 <param id="symbol"/>
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Recorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ToggleRecording" parent="Recorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="CreateCustomFields" parent="Recorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="StoreFields" parent="Recorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="SaveRecording" parent="Recorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="AddLap" parent="Recorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="AbortRecording" parent="Recorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="IsRecording" parent="Recorder">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CustomField">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="StretchingMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Timer" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Rest" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Reputation" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Vibrate" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Sound" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Light" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Autostart" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Recording" parent="StretchingMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ShowGenericPicker" parent="StretchingMenuDelegate">
+<param id="type"/>
+<param id="title"/>
+<param id="object"/>
+<param id="symbol"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StretchingApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="StretchingApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="StretchingApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="StretchingApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="StretchingApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StretchingDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="StretchingDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="AddSupport" parent="StretchingDelegate">
+<param id="menu"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="StretchingDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSwipe" parent="StretchingDelegate">
+<param id="swipeEvent"/>
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="MainMenu">
 <documentation/>
 </functionEntry>
@@ -1087,8 +1096,8 @@
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="342" parentId="globals" symbolId="Setup" type="class"/>
-<dataEntry offset="565" parentId="globals" symbolId="StretchingApp" type="class"/>
+<dataEntry offset="342" parentId="globals" symbolId="StretchingApp" type="class"/>
+<dataEntry offset="421" parentId="globals" symbolId="Setup" type="class"/>
 <dataEntry offset="644" parentId="globals" symbolId="StretchingDelegate" type="class"/>
 <dataEntry offset="723" parentId="globals" symbolId="GenericPickerDialog" type="class"/>
 <dataEntry offset="770" parentId="globals" symbolId="Rez" type="module"/>
@@ -1102,8 +1111,8 @@
 <dataEntry offset="1178" parentId="Rez" symbolId="Strings" type="module"/>
 <dataEntry offset="1353" parentId="globals" symbolId="StretchingView" type="class"/>
 <dataEntry offset="1520" parentId="globals" symbolId="CustomField" type="class"/>
-<dataEntry offset="1567" parentId="globals" symbolId="MyPickerDelegate" type="class"/>
-<dataEntry offset="1654" parentId="globals" symbolId="MyConfirmationDelegate" type="class"/>
+<dataEntry offset="1567" parentId="globals" symbolId="MyConfirmationDelegate" type="class"/>
+<dataEntry offset="1638" parentId="globals" symbolId="MyPickerDelegate" type="class"/>
 <dataEntry offset="1725" parentId="globals" symbolId="Recorder" type="class"/>
 <dataEntry offset="1892" parentId="globals" symbolId="StretchingTimer" type="class"/>
 <dataEntry offset="2099" parentId="globals" symbolId="StretchingMenuDelegate" type="class"/>

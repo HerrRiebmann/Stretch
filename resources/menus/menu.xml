@@ -1,7 +1,7 @@
 <menu id="MainMenu">	
-    <menu-item id="item_1">@Strings.menu_label_Timer</menu-item>
-    <menu-item id="item_2">@Strings.menu_label_Rest</menu-item>
-    <menu-item id="item_3">@Strings.menu_label_Rep</menu-item>
-    <menu-item id="item_7">@Strings.menu_label_Autostart</menu-item>
-    <menu-item id="item_8">@Strings.menu_label_Recording</menu-item>
+    <menu-item id="item_1" label="@Strings.menu_label_Timer"></menu-item>
+    <menu-item id="item_2" label="@Strings.menu_label_Rest"></menu-item>
+    <menu-item id="item_3" label="@Strings.menu_label_Rep"></menu-item>
+    <menu-item id="item_7" label="@Strings.menu_label_Autostart"></menu-item>
+    <menu-item id="item_8" label="@Strings.menu_label_Recording"></menu-item>
 </menu>

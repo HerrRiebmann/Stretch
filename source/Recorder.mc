@@ -23,7 +23,11 @@ class Recorder
 		if(supportsRecording == null)
     	{
     		supportsRecording = Toybox has :ActivityRecording;    		
-    		Sys.println("Supports recording");    	    		
+    		Sys.println("Supports recording");
+    		if(supportsRecording)
+    		{
+    			//Position.enableLocationEvents(Position.LOCATION_DISABLE, null);
+    		}    	    		
     	}
 	}
 	
@@ -205,6 +209,6 @@ class Recorder
 class CustomField extends Ui.DataField 
 {
     function initialize() {
-		//Ui.DataField.initialize();
+		Ui.DataField.initialize();
     }
 }
